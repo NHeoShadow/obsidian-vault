@@ -17,6 +17,14 @@ This site focuses on topics covered for the Licensure Exam for Certified Public 
 	- IFRS
 	- IAS
 	- AASC
+- 📌 **Other Legislative Measures**
+	- The Philippine Constitution
+	- Bills affecting the CPA Profession
+	- 
+
+## How to browse
+To effectively use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a *recall* for all the lessons under the board exams.
 
 ## Contribute
-To contribute, visit this link.
+Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
+
