@@ -19,4 +19,4 @@ This site focuses on topics covered for the Licensure Exam for Certified Public 
 	- AASC
 
 ## Contribute
-To contribute, 
+To contribute, visit this link.
