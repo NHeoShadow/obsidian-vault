@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Homepage!"
+title: index
 ---
 
 Welcome to my digital garden. This website is a mirror of my notes located in my local Obsidian vault which is published to this site from time to time. 
@@ -27,4 +27,3 @@ To effectively use this digital garden, it is highly recommended that you have g
 
 ## Contribute
 Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
-
