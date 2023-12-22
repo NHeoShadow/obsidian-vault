@@ -21,12 +21,18 @@ Also view: [[In preparation for the Integrated Review]]
 	- IFRS
 	- IAS
 	- AASC
-- 📌 **Other Legislative Measures** (unrelated to CPALE)
-	- The Philippine Constitution (and [[History of the Philippine Constitution|History]])
+- 📌 **Other Measures and Policies** (unrelated to CPALE)
+	- [The Philippine Constitution](https://www.officialgazette.gov.ph/constitutions/1987-constitution/) ([[PH Constitution Notes|Notes]])
 	- The American Constitution
-	- Administrative Code of 1987
+	- [Administrative Code of 1987](https://www.officialgazette.gov.ph/1987/07/25/executive-order-no-297-s-1987-3/) ([[Admin Code of 1987 Notes|Notes]])
 	- Bills affecting the CPA Profession
 	- Rules of Court
+		- [Civil Procedure](https://lawphil.net/courts/rules/civil.html)
+		- [Special Proceedings](https://lawphil.net/courts/rules/spro.html)
+		- [Criminal Procedure](https://lawphil.net/courts/rules/crim.html)
+		- [Rules on Evidence](https://lawphil.net/courts/rules/evid.html)
+		- [Legal Ethics](https://lawphil.net/courts/rules/ethics.html)
+	- 
 
 ## Weekly Updates
 - W51 2023
@@ -34,7 +40,10 @@ Also view: [[In preparation for the Integrated Review]]
 	- Obsidian vault now has a separate GitHub repo which will enable collaboration for this vault sometime in the near future.
 
 ## How to browse
-To use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a *recall* for all the lessons under the board exam.
+To use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a *recall* for all the lessons under the board exams. Other tips include:
+- Use `⌘`/`ctrl` + `k` to open search.
+- Visited websites will appear green in the graph.
+- Click the sun/moon button to toggle between light and dark modes.
 
 ## Contribute
 Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
