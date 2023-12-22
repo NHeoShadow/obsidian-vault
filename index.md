@@ -17,15 +17,21 @@ This site focuses on topics covered for the Licensure Exam for Certified Public 
 	- IFRS
 	- IAS
 	- AASC
-- 📌 **Other Legislative Measures**
+- 📌 **Other Legislative Measures** (unrelated to CPALE)
 	- The Philippine Constitution
+	- Administrative Code of 1987
 	- Bills affecting the CPA Profession
 	- 
+
+## Weekly Updates (log)
+- W51 2023
+	- Website has been initialized using Quartz v4.1..
+	- Obsidian vault now has a separate GitHub repo which will enable collaboration for this vault sometime in the near future.
 
 ## How to browse
 To effectively use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a *recall* for all the lessons under the board exams.
 
-This website is best viewed with the [iA Writer](https://github.com/iaolo/iA-Fonts/tree/master) font family.
+This website is best viewed using the [iA Writer](https://github.com/iaolo/iA-Fonts/tree/master) font family.
 
 ## Contribute
 Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
