@@ -1,5 +1,5 @@
 ---
-title: index
+title: Welcome to the Homepage!
 ---
 
 Welcome to my digital garden. This website is a mirror of my notes located in my local Obsidian vault which is published to this site from time to time. 
