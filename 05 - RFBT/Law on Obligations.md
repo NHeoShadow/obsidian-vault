@@ -6,4 +6,4 @@ legal-basis:
 
 The Law on Obligations is governed by Book IV (Obligations and Contracts) Title I (Obligations) of the Civil Code of the Philippines.
 
-[[RA 386 BOOK IV TITLE I and II.pdf|Legal provisions for Law on Obligations]]
+[[RA 386 BOOK IV TITLE I and II.pdf|File: Legal provisions for Law on Obligations]]

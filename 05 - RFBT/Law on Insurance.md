@@ -14,5 +14,5 @@ legal-basis:
 
 The primary agency responsible for this law is the Insurance Commission, created by operation of law (PD 612, as amended). It is attached under the Department of Finance.
 
-[[Amended Insurance Code.pdf|Legal provision of RA 10607]]
+[[Amended Insurance Code.pdf|File: Legal provision of RA 10607]]
 

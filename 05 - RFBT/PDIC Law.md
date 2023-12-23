@@ -24,7 +24,7 @@ legal-basis:
 
 The primary agency responsible for this law is the Philippine Deposit Insurance Corporation (PDIC), created by operation of Republic Act No. 3591. 
 
-[[PDIC Charter 2022.pdf|Legal provisions of RA 3591, as amended]]
+[[PDIC Charter 2022.pdf|File: Legal provisions of RA 3591, as amended]]
 
 The PDIC is attached under the [[Bangko Sentral ng Pilipinas]], of which the latter is attached to the Department of Finance.
 
