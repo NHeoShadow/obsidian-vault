@@ -6,11 +6,6 @@ Hello, I’m Raph. This is my digital garden that contains all of my notes from 
 
 This website focuses on the topics covered in the CPALE using ReSA’s study guide as a main framework for categorizing different lessons and topics. A review tracker which I created from scratch can be accessed from this [Google Sheets template](https://docs.google.com/spreadsheets/d/1ZYcrZEsSWFpGT7bwccuNtU_CFSy3FNb94MczraCj39I/edit?usp=sharing).
 
-[[Amended Insurance Code.pdf]]
-[Amended Insurance Code.pdf](Amended%20Insurance%20Code.pdf)
-[[Amended Insurance Code.pdf]]
-[Test](<Attachments/Amended Insurance Code.pdf>)
-
 Also view: [[In preparation for the Integrated Review]]
 
 - 📂 **CPALE Subjects**
