@@ -2,7 +2,9 @@
 title: 🐢 Welcome to the Homepage!
 ---
 
-I’m Raph. This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
+![[Homepage-landing.png]]
+
+Hello, I’m Raph. This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
 
 This website focuses on topics covered in the CPALE using ReSA’s study guide as the main framework for categorizing the different lessons thereunder, as well as legislatures that I think would aide in the CPA profession especially to those thinking of pursuing a law-related profession. The contents of this website is my way of preparing myself for the Integrated review.
 
