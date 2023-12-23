@@ -8,18 +8,18 @@ This website focuses on the topics covered in the CPALE using ReSA’s study gui
 
 Also view: [[In preparation for the Integrated Review]]
 
-- 📌 **CPALE Subjects**
+- 📂 **CPALE Subjects**
 	- [[01 - FAR/index|Financial Accounting and Reporting]]
 	- [[02 - AFAR/index|Advanced Financial Accounting and Reporting]]
 	- [[03 - MS/index|Management Services]]
 	- [[04 - AUDT/index|Auditing Theories]]
 	- [[05 - RFBT/index|Regulatory Framework for Business Transactions]]
 	- [[06 - TAX/index|Philippine Taxation]]
-- **📌 Other Standards and Issuances**
+- 📂 **Other Standards and Issuances**
 	- IFRS
 	- IAS
 	- AASC
-- 📌 **Other Measures and Policies** (unrelated to CPALE)
+- 📂 **Other Measures and Policies** (unrelated to CPALE)
 	- [The Philippine Constitution](https://www.officialgazette.gov.ph/constitutions/1987-constitution/) ([[PH Constitution Notes|Notes]])
 	- The American Constitution
 	- [Administrative Code of 1987](https://www.officialgazette.gov.ph/1987/07/25/executive-order-no-297-s-1987-3/) ([[Admin Code of 1987 Notes|Notes]])
