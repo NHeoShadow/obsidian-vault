@@ -32,7 +32,6 @@ Also view: [[In preparation for the Integrated Review]]
 		- [Criminal Procedure](https://lawphil.net/courts/rules/crim.html)
 		- [Rules on Evidence](https://lawphil.net/courts/rules/evid.html)
 		- [Legal Ethics](https://lawphil.net/courts/rules/ethics.html)
-	- 
 
 ## Weekly Updates
 - W51 2023
