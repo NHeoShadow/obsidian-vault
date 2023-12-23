@@ -1,6 +1,5 @@
 ---
 title: 🐢 Welcome to the Homepage!
-draft: true
 ---
 
 I’m Raph. This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
