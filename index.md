@@ -1,5 +1,5 @@
 ---
-title: 🐢 Welcome to the Homepage!
+title: Welcome to the Homepage!
 ---
 
 ![[Homepage-landing.png]]
@@ -10,7 +10,7 @@ This website focuses on topics covered in the CPALE using ReSA’s study guide a
 
 Also view: [[In preparation for the Integrated Review]]
 
-> [!example]+ CPALE Subjects
+> [!example] CPALE Subjects
 > - [[01 - FAR/index|Financial Accounting and Reporting]] provides for topics that aids a CPA to prepare financial statements.
 > - [[02 - AFAR/index|Advanced Financial Accounting and Reporting]] covers more complex topics and issues in financial accounting and reporting.
 > - [[03 - MAS/index|Management Advisory Services]] revolves around providing useful information to management, primarily internal by nature.
