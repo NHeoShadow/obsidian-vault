@@ -6,8 +6,6 @@ Hello, I’m Raph. This is my digital garden that contains all of my notes from 
 
 This website focuses on the topics covered in the CPALE using ReSA’s study guide as a main framework for categorizing different lessons and topics. A review tracker which I created from scratch can be accessed from this [Google Sheets template](https://docs.google.com/spreadsheets/d/1ZYcrZEsSWFpGT7bwccuNtU_CFSy3FNb94MczraCj39I/edit?usp=sharing).
 
-This website is best viewed using the [iA Writer Quattro V Regular](https://github.com/iaolo/iA-Fonts/tree/master) font family.
-
 Also view: [[In preparation for the Integrated Review]]
 
 - 📌 **CPALE Subjects**
@@ -48,3 +46,5 @@ To use this digital garden, it is highly recommended that you have gained master
 Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
 
 If interested, feel free to send me a message thru Facebook Messenger.
+
+This website uses the [iA Writer Quattro V Regular](https://github.com/iaolo/iA-Fonts/tree/master) font family.
