@@ -1,7 +1,7 @@
 
 The Integrated Review (course-code: `B-ACCR421`) will be a two-week-long review of all the lessons covered under the BS Accountancy program that will be covered in the CPALE. Schedules will be divided into two groups for AM and PM sessions, with each group having 80 students each.
 
-Given the limited time of the Integrated Review course for our program (some HEIs actually allocate one semester for a CPA review course) and to increase the likelihood that I pass the course, I started to recall and review all the topics for the CPALE last December 26, 2023. This early start will (hopefully) give me an advantage to review most topics before the final defence and OJT period for the BSA program.
+Given the limited time of the Integrated Review course for our program (some HEIs actually allocate one semester for a CPA review course) and to increase the likelihood that I pass the course, I started to recall and review all the topics for the CPALE. This early start will (hopefully) give me an advantage to review most topics before the final defence and OJT period for the BSA program.
 
 Since the company that I will be working during the OJT period will have a hybrid setup for work (3 days online; 2 days onsite), I am also planning to utilize this to my advantage to dedicate 4 days every week in reviewing CPALE subjects with emphasis for one subject at a time.
 
