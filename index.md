@@ -34,3 +34,10 @@ To use this digital garden, it is highly recommended that you have gained master
 - Use `⌘`/`ctrl` + `k` to open search.
 - Visited websites will appear green in the graph.
 - Click the sun/moon button to toggle between light and dark modes.
+
+## Contribution and Attribution
+Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
+
+If interested, feel free to send me a message thru Facebook Messenger.
+
+This website uses the [iA Writer Quattro V Regular](https://github.com/iaolo/iA-Fonts/tree/master) font family.
