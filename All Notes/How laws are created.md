@@ -11,12 +11,12 @@ The Congress is composed of two House of Congress, or *Chambers*, namely the Sen
 
 Before a law is created, it is first introduced as a Bill in either House of Congress- a Senate Bill for the Senate, and a House Bill for the House of Representatives. However, in some cases, especially for urgent issues requiring immediate attention, Bills are introduced in both House of Congress concurrently as separate Bills.
 
-Bills are then referred to a committee in a House of Congress to deliberate, inquire, and investigate the provisions contained herein. Then, the committee may either recommend for the approval of such Bill after due consideration by them, or rejected.
+Bills are then referred to a committee in a House of Congress to deliberate, inquire, and investigate the provisions contained therein. Then, the committee may either recommend for the approval of such Bill after due consideration by them, or rejected.
 
 A Bill must be read three times in each House of Congress before they can pass the same (unless it is certified by the President as urgent). Then, it is signed by the President for it to become law.
 
 Actually, there are three ways by which a Bill becomes a law after it has been previously approved by both House of Congress, and are as follow:
 
 1. If the President signs it;
-2. If the President does not sign it, but communicates his veto to the House of Congress where such bill has originated, within a period of thirty (30) days, then each House of Congress, voting separately, taking into account the veto of the President, passes the bill with two-thirds supermajority; or
+2. If the President does not sign it, but communicates his veto to the House of Congress where such bill has originated within a period of thirty (30) days, then each House of Congress, voting separately, passes the bill with two-thirds supermajority taking into account the veto of the President; or
 3. If the President does not sign it and does not communicate his veto within thirty (30) days.
