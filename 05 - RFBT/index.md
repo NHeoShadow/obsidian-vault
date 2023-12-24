@@ -2,19 +2,18 @@
 title: 05 - RFBT
 ---
 
-- [x] [[Law on Obligations]]
-- [x] [[Law on Contracts]]
-- [x] [[Labour Law]]
-- [x] [[Social Security Law]]
+The Regulatory Framework for Business Transactions subject covers legislations or measures that affects business transactions.
+
+Also read: [[How laws are created]]
+
+---
+## Todo
+
 - [ ] [[Law on Insurance]]
 	- Need further reference on which topics are covered hereunder.
 - [ ] [[PDIC Law]]
 	- Need further reference on which provisions under this RA are covered in the CPALE
-- [x] [[Law on Partnerships]]
-- [x] [[Law on Corporations]]
-- [ ] [[Securities Regulation Code (Rule 68)]]
-- [ ] [[Law on Cooperatives]]
-- [ ] [[Government Procurement Law]]
+
 - [ ] [[Law on Credit Transactions]]
 - [ ] [[Law on Sales]]
 - [ ] [[Consumer Protection Act]]
