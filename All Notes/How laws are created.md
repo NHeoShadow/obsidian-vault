@@ -1,10 +1,10 @@
 
-In the current setup of the Philippine Constitution, laws are created either by the bicameral legislature organ called the Congress, or by issuances by the President of the Philippine Republic.
+In the current setup of the Philippine Constitution, laws are created either by the bicameral legislature organ called the Congress, or by issuances made by the President of the Philippine Republic.
 
 ## The President
 The President shall have the authority to issue Executive Orders which shall affect the execution of constitutional or statutory powers.
 
-Presidential Decrees, which were issuances made by former President Ferdinand E. Marcos, are laws which vested the Chief Executive the law-making powers of the Congress during Martial Law.
+Presidential Decrees, which were issuances made by former President Ferdinand E. Marcos, are laws which vested the Chief Executive the law-making powers of the Congress during Martial Law. All Presidential Decrees are still valid up until this date, unless otherwise repealed, amended, or modified accordingly by a law.
 
 ## The Congress
 The Congress is composed of two House of Congress, or *Chambers*, namely the Senate and the House of Representatives. Each House of Congress follows a set or rules that provides for the policies in making legislations.
