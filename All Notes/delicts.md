@@ -1,0 +1,1 @@
+Delicts are *torts* or violations of law. **Delicts give rise to an obligation to pay for civil damages**. However, any punishments relating to the commission of a tort is not an obligation (i.e., imprisonment, removal from office, etc.)

@@ -2,12 +2,21 @@
 title: 05 - RFBT
 ---
 
-The Regulatory Framework for Business Transactions subject covers legislations or measures that affects business transactions.
+The Regulatory Framework for Business Transactions subject covers legislations or measures that affect business transactions.
 
 Also read: [[How laws are created]]
 
+## Terminologies
+
+| abrv. | Full-text |
+| ---- | ---- |
+| RA | Republic Act |
+| BP | Batas Pambansa |
+| PD | Presidential Decree |
+| EO | Executive Order |
+
 ---
-## Todo
+## To do
 
 - [ ] [[Law on Insurance]]
 	- Need further reference on which topics are covered hereunder.
@@ -19,7 +28,7 @@ Also read: [[How laws are created]]
 - [ ] [[Consumer Protection Act]]
 - [ ] [[Lemon Law Act]]
 - [ ] [[Philippine Competition Act]]
-- [ ] [[Central Bank Act]]
+- [ ] [[New Central Bank Act]]
 - [ ] [[Secrecy of Bank Deposits]]
 - [ ] [[Truth in Lending Act]]
 - [ ] [[AMLA Law]]

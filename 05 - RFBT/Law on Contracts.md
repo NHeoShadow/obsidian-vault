@@ -9,7 +9,7 @@ The Law on Obligations is governed by Book IV (Obligations and Contracts) Title 
 [[RA 386 BOOK IV TITLE I and II.pdf|File: Legal provisions for Law on Contracts]]
 
 ## General Provisions
-…
+A contract is a meeting of minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service.
 
 ## Essential Requisites of Contracts
 …

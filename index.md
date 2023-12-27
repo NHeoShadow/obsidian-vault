@@ -26,7 +26,7 @@ Also view: [[In preparation for the Integrated Review]]
 > [!info]- Other topics
 > - The Philippine Constitution
 > - The American Constitution
-> - The Administrative Code of 1987
+> - [[The Administrative Code of 1987]]
 > - The Rules of Court
 
 ## How to browse

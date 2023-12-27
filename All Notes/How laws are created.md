@@ -20,3 +20,9 @@ Actually, there are three ways by which a Bill becomes a law after it has been p
 1. If the President signs it;
 2. If the President does not sign it, but communicates his veto to the House of Congress where such bill has originated within a period of thirty (30) days, then each House of Congress, voting separately, passes the bill with two-thirds supermajority taking into account the veto of the President; or
 3. If the President does not sign it and does not communicate his veto within thirty (30) days.
+
+## Court Rulings
+
+> Judicial decisions applying or interpreting the laws or the Constitution shall form part of the legal system of the Philippines. - RA 386 Article 8
+
+Rulings made by the Supreme Court becomes a law because of the judicial powers vested in them which allows them to interpret how the law is written, which becomes a precedent for succeeding cases.
