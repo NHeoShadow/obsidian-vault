@@ -19,7 +19,7 @@ Also read: [[How laws are created]]
 ## To do
 
 - [ ] [[Law on Insurance]]
-	- Need further reference on which topics are covered hereunder. s
+	- Need further reference on which topics are covered hereunder. 
 - [ ] [[PDIC Law]]
 	- Need further reference on which provisions under this RA are covered in the CPALE
 
@@ -38,4 +38,3 @@ Also read: [[How laws are created]]
 - [ ] [[Ease of Doing Business Act]]
 - [ ] [[Financial Rehabilitation and Insolvency]]
 - [ ] [[Anti-Bouncing Cheques Law]]
-
