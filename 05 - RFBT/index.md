@@ -19,7 +19,7 @@ Also read: [[How laws are created]]
 ## To do
 
 - [ ] [[Law on Insurance]]
-	- Need further reference on which topics are covered hereunder.
+	- Need further reference on which topics are covered hereunder. s
 - [ ] [[PDIC Law]]
 	- Need further reference on which provisions under this RA are covered in the CPALE
 
