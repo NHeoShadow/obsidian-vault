@@ -4,7 +4,7 @@ title: Welcome to the Homepage!
 
 ![[Homepage-landing.png]]
 
-Hello, I’m Raph. This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
+Hello, I’m [@Raph](https://www.facebook.com/aciloraphael/). This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
 
 This website focuses on topics covered in the CPALE using ReSA’s study guide as the main framework for categorizing the different lessons thereunder, as well as legislatures that I think would aide in the CPA profession especially to those thinking of pursuing a law-related profession. The contents of this website is my way of preparing myself for the Integrated review.
 
@@ -37,8 +37,6 @@ To use this digital garden, it is highly recommended that you have gained master
 - Click the sun/moon button to toggle between light and dark modes.
 
 ## Contribution and Attribution
-Contributing to this vault is quite complex. [Obsidian](https://obsidian.md/) is utilized as the primary note-taking application, while GitHub is used to synchronize changes from the vault to the website.
-
-If interested, feel free to send me a message thru Facebook Messenger.
+[Obsidian](https://obsidian.md/) is used as the primary application to edit the contents of this digital garden. For interested contributors, feel free to send me a message thru Facebook Messenger.
 
 This website uses the [iA Writer Quattro V Regular](https://github.com/iaolo/iA-Fonts/tree/master) font family.
