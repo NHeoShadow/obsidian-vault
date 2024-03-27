@@ -8,12 +8,12 @@ Also read: [[How laws are created]]
 
 ## Terminologies
 
-| abrv. | Full-text           |
-| ----- | ------------------- |
-| RA    | Republic Act        |
-| BP    | Batas Pambansa      |
-| PD    | Presidential Decree |
-| EO    | Executive Order     |
+| abrv. | Full-text           |     |
+| ----- | ------------------- | --- |
+| RA    | Republic Act        |     |
+| BP    | Batas Pambansa      |     |
+| PD    | Presidential Decree |     |
+| EO    | Executive Order     |     |
 
 ---
 ## To do
