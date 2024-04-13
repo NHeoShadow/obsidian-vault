@@ -28,6 +28,7 @@ Also view: [[In preparation for the Integrated Review]]
 > - The American Constitution
 > - [[The Administrative Code of 1987]]
 > - The Rules of Court
+> - [[D-ENGL003|English in the Workplace course]]
 
 ## How to browse
 To use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a _recall_ for all the lessons under the board exams. Other tips include:
