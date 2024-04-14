@@ -22,6 +22,7 @@ This website focuses on topics covered in the CPALE using ReSA’s study guide a
 > - AASC
 
 > [!info]- Other topics
+> These are the list of topics that interest me. Will soon have its own section in this vault.
 > - The Philippine Constitution
 > - The American Constitution
 > - [[The Administrative Code of 1987]]
@@ -39,3 +40,5 @@ To use this digital garden, it is highly recommended that you have gained master
 [Obsidian](https://obsidian.md/) is used as the primary application to edit the contents of this digital garden. For interested contributors, feel free to send me a message thru Facebook Messenger.
 
 This website uses the [iA Writer Quattro V Regular](https://github.com/iaolo/iA-Fonts/tree/master) font family.
+
+Also view: [Review Tracker Template (using ReSA topics)](https://docs.google.com/spreadsheets/d/1ZYcrZEsSWFpGT7bwccuNtU_CFSy3FNb94MczraCj39I/edit?usp=sharing)
