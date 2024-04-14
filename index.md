@@ -4,11 +4,9 @@ title: Welcome to the Homepage!
 
 ![[Homepage-landing.png]]
 
-Hello, I’m [@Raph](https://www.facebook.com/aciloraphael/). This is my [[digital garden]] which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
+Hello, I’m [@Raph](https://www.facebook.com/aciloraphael/). This is my [digital garden](https://maggieappleton.com/garden-history) which contains all my notes from my Obsidian vault, published and updated from time to time in line with my preparation for the CPALE.
 
 This website focuses on topics covered in the CPALE using ReSA’s study guide as the main framework for categorizing the different lessons thereunder, as well as legislatures that I think would aide in the CPA profession especially to those thinking of pursuing a law-related profession. The contents of this website is my way of preparing myself for the Integrated review.
-
-Also view: [[In preparation for the Integrated Review]]
 
 > [!example] CPALE Subjects
 > - [[01 - FAR/index|Financial Accounting and Reporting]] provides for topics that aids a CPA to prepare financial statements.
