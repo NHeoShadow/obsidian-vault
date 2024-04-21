@@ -9,12 +9,12 @@ Hello, I’m [@Raph](https://www.facebook.com/aciloraphael/). This is my [digita
 This website focuses on topics covered in the CPALE using ReSA’s study guide as the main framework for categorizing the different lessons thereunder, as well as legislatures that I think would aide in the CPA profession especially to those thinking of pursuing a law-related profession. The contents of this website is my way of preparing myself for the Integrated review.
 
 > [!example] CPALE Subjects
-> - [[01 - FAR/index|Financial Accounting and Reporting]] provides for topics that aids a CPA to prepare financial statements.
-> - [[02 - AFAR/index|Advanced Financial Accounting and Reporting]] covers more complex topics and issues in financial accounting and reporting.
-> - [[03 - MAS/index|Management Advisory Services]] revolves around providing useful information to management, primarily internal by nature.
-> - [[04 - AUDT/index|Auditing Theories]] primarily focuses on the principles revolving around external audit.
-> - [[05 - RFBT/index|Regulatory Framework for Business Transactions]] covers the laws and regulations affecting business transactions.
-> - [[06 - TAX/index|Philippine Taxation]] focuses on the application of taxation laws and regulations in the practice.
+> - [[CPALE/01 - FAR/index|Financial Accounting and Reporting]] provides for topics that aids a CPA to prepare financial statements.
+> - [[CPALE/02 - AFAR/index|Advanced Financial Accounting and Reporting]] covers more complex topics and issues in financial accounting and reporting.
+> - [[CPALE/03 - MAS/index|Management Advisory Services]] revolves around providing useful information to management, primarily internal by nature.
+> - [[CPALE/04 - AUDT/index|Auditing Theories]] primarily focuses on the principles revolving around external audit.
+> - [[CPALE/05 - RFBT/index|Regulatory Framework for Business Transactions]] covers the laws and regulations affecting business transactions.
+> - [[CPALE/06 - TAX/index|Philippine Taxation]] focuses on the application of taxation laws and regulations in the practice.
 
 > [!info]- Related standards and issuances
 > - IFRS
