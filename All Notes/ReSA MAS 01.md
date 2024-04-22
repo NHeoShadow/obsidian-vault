@@ -99,6 +99,8 @@ ReSA-subj: MS
 					- Lead time: either normal (average) or maximum
 						- Normal (average): 2 days
 						- Maximum: 4 days
+					- Ensures that there is no extra carrying costs and there is no stockout.
+						- Stockouts results to income forfeited.
 	- **Learning Curve**
 		- ...
 
@@ -117,6 +119,13 @@ whereas:
 | Ordering Costs   | (D /EOQ)O | (D /EOQ) is the number of orders per year  |
 #### Reorder Point
 
+| Item Particulars | Formula                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| Safety Stock     | (lead_m - lead_x) * average daily demand                                            |
+| Reorder Point    | lead_m * average daily demand; or<br>(lead_x * average daily demand) + safety stock |
+whereas:
+- lead_m = maximum lead time
+- lead_x = average/normal lead time
 
 ## File References
 
