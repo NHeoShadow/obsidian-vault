@@ -30,6 +30,15 @@ ReSA-subj: MS
 				- D3 AM: FAR
 				- D3 PM: AFAR
 		- On 2028, the subject MS will be converted to BAR
+	- Short-game
+		- Margin of Safety -> CVP Analysis
+		- Cost Centre -> Responsibility Accounting
+		- Make or Buy -> Relevant Costing
+		- Mix & Yield -> Standard Costing
+		- ARR vs IRR -> Capital Budgeting
+		- Customer Perspective -> Balanced Scorecard
+		- EOQ -> Working Capital Management
+			- Inventory Management
 		- 
 	- Philippine CPA Exam vis-a-vis US CMA Exams
 		- ...
