@@ -74,7 +74,22 @@ ReSA-subj: MS
 				- Associated terms: monitoring; feedback mechanism
 			- Decision-making is an inherent function of management as ==**all**== management functions would require a certain level of decision-making; this makes management accounting information useful in all stages of management.
 		- Goal of Financial Management - modern managerial finance theory works under the premise that the primary goal of the firm is to maximize *==shareholders' wealth==*, rather than just to maximize profit. The financial manager acts in the shareholders' best interests by making decisions that maximize the *market value* of the company stocks (i.e., wealth creation)
-		- Role of Financial Managers - the role of a financial manager may include *financial analysis and planning*, *investment decisions*, *financing and capital structure decisions*, *management of financial reosurces*, and *risk amnagement*. No single person is tasked for all the responsibilites of a financial manager
+		- Role of Financial Managers - the role of a financial manager may include *financial analysis and planning*, *investment decisions*, *financing and capital structure decisions*, *management of financial resources*, and *risk amnagement*. No single person is tasked for all the responsibilities of a financial manager.
+- **MS-4702: Quantitative Techniques**
+	- **Economic Order Quantity**
+		- Inventory Models
+			- How many units to order
+				- Factors needed to take into account:
+					- Ordering Costs (OC)
+						- The more units to order, the less ordering costs a company may incur
+					- Carrying Costs (CC)
+						- Need to take into account expiration/spoil date of the inventory at hand
+					- A balance between ordering costs and carrying costs must be taken into account. Hence, **EOQ**
+						- The quantity you should order in order to optimize the ordering and carrying costs incurred.
+						- 
+			- When to make the order
+	- **Learning Curve**
+		- ...
 
 ## File References
 
