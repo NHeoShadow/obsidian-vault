@@ -6,17 +6,18 @@ topics-covered:
 presider: Charlwin "Aljon" P. Lee, CPA, CMA
 ReSA-subj: MS
 ---
-## Preliminaries
-- There will be four meetings for MS:
-	- April 22
-		- MS-4701: MS Subject Overview
-		- MS-4702: Quantitative Techniques
-	- April 24
-		- MS-4703: Relevant Costing, Linear Programming, and Probability Analysis
-	- April 29
-		- MS-4704: Capital Budgeting
-	- May 14
-		- MS-4705: MS Summary Lecture (essential and salient points for all topics under MS)
+## Topic Proper
+- Preliminaries
+	- There will be four meetings for MS:
+		- April 22
+			- MS-4701: MS Subject Overview
+			- MS-4702: Quantitative Techniques
+		- April 24
+			- MS-4703: Relevant Costing, Linear Programming, and Probability Analysis
+		- April 29
+			- MS-4704: Capital Budgeting
+		- May 14
+			- MS-4705: MS Summary Lecture (essential and salient points for all topics under MS)
 - MS-4701 (MS Subject Overview)
 	- **MS Syllabus for the October 2024 CPA License Examination**
 		- Note: that the official name is already Management Services (MS). The word "advisory" has been removed last October 2022 because the following topics were omitted:
@@ -86,11 +87,19 @@ ReSA-subj: MS
 						- Need to take into account expiration/spoil date of the inventory at hand
 					- A balance between ordering costs and carrying costs must be taken into account. Hence, **EOQ**
 						- The quantity you should order in order to optimize the ordering and carrying costs incurred.
-						- 
+						- See *Equation 1: EOQ*
 			- When to make the order
 	- **Learning Curve**
 		- ...
 
+### Equations
+#### Economic Order Quantity (EOQ)
+
+$$ EOQ = \sqrt{\frac{2DO}{C}} $$
+whereas:
+- $D$ refers to **annual** demand or usage in units
+- $O$ refers to costs of placing **one** order
+- $C$ refers to cost of carrying one unit for **one year**
 ## File References
 
 - [[MS-4701 (MS Subject Overview).pdf]]
