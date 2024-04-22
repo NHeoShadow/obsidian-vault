@@ -61,6 +61,9 @@ ReSA-subj: MS
 		- Management accounting presents information differently compared to financial accounting.
 			- Example: Financial accounting presents income statement in function form, while management accounting presents income statement by behaviour
 			- Both draw from *the same* accounting database
+			- Cost accounting is a subset of both management and financial accounting
+				- ![[Pasted image 20240422094241.png]]
+		- Management accounting is *future oriented*
 		- 
 
 ## File References
