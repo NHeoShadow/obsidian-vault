@@ -87,7 +87,8 @@ ReSA-subj: MS
 						- Need to take into account expiration/spoil date of the inventory at hand
 					- A balance between ordering costs and carrying costs must be taken into account. Hence, **EOQ**
 						- The quantity you should order in order to optimize the ordering and carrying costs incurred.
-						- See *Equation 1: EOQ*
+						- ==See *Equation 1: EOQ*==
+						- Another name for EOQ is *Optimal Order Quantity*. Total costs, whatever the output be, will be the lowest possible costs for the given parameters.
 			- When to make the order
 	- **Learning Curve**
 		- ...
@@ -100,6 +101,16 @@ whereas:
 - $D$ refers to **annual** demand or usage in units
 - $O$ refers to costs of placing **one** order
 - $C$ refers to cost of carrying one unit for **one year**
+
+
+| Item Particulars | Formula | Whereas |
+| ---------------- | ------- | ------- |
+|                  |         |         |
+|                  |         |         |
+
+![[Pasted image 20240422104401.png]]
+
+
 ## File References
 
 - [[MS-4701 (MS Subject Overview).pdf]]
