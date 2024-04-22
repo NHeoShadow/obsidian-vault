@@ -102,7 +102,15 @@ ReSA-subj: MS
 					- Ensures that there is no extra carrying costs and there is no stockout.
 						- Stockouts results to income forfeited.
 	- **Learning Curve**
-		- ...
+		- otherwise known as *experience curve*, *productivity curve*, or *efficiency curve*
+		- It is based on the phenomenon that labour time decreases in a definite pattern as labour operations are repeated. Learning curve describes the *efficiencies* arising from *experience* - with experience comes increased *productivity*.
+			- This productivity increases with production size, but at a decreasing rate as diagrammed below
+			- The time required to perform a given task becomes progressively shorter, but this is applicable only to the early stages of production.
+			- The learning curve is based on statistical findings that as the cumulative output *doubles*, the cumulative *average* labour input time required per unit will be reduced by some percentage, ranging between 10% and 40%.
+			- ‼️ The learning curve is usually designated by the complement of the rate of reduction - if the rate of reduction is 20%, then there is an 80% learning curve.
+		- Take note of the following words: *average* and *double*
+		- [ ] **More notes shall be taken**
+		- [ ] 
 
 ### Equations
 #### Economic Order Quantity (EOQ)
