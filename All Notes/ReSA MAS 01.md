@@ -6,3 +6,10 @@ topics-covered:
 presider: Charlwin "Aljon" P. Lee, CPA, CMA
 ReSA-subj: MS
 ---
+## Topic Proper
+- 
+
+## File References
+
+- [[MS-4701 (MS Subject Overview).pdf]]
+- [[MS-4702 (Quantitative Techniques).pdf]]
