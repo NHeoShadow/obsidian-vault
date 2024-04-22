@@ -18,7 +18,7 @@ ReSA-subj: MS
 	- May 14
 		- MS-4705: MS Summary Lecture (essential and salient points for all topics under MS)
 - MS-4701 (MS Subject Overview)
-	- MS Syllabus for the October 2024 CPA License Examination
+	- **MS Syllabus for the October 2024 CPA License Examination**
 		- Note: that the official name is already Management Services (MS). The word "advisory" has been removed last October 2022 because the following topics were omitted:
 			- MS Management Consultancy, Project Feasibility Study, ABC & Activity-Based Management, Strategic Cost Management, PERT-CPM, Code of Ethics, among others
 		- There will be 70 MCQ questions, mix of theories and problems (50/50)
@@ -30,19 +30,30 @@ ReSA-subj: MS
 				- D3 AM: FAR
 				- D3 PM: AFAR
 		- On 2028, the subject MS will be converted to BAR
-	- Short-game
-		- Margin of Safety -> CVP Analysis
-		- Cost Centre -> Responsibility Accounting
-		- Make or Buy -> Relevant Costing
-		- Mix & Yield -> Standard Costing
-		- ARR vs IRR -> Capital Budgeting
-		- Customer Perspective -> Balanced Scorecard
-		- EOQ -> Working Capital Management
-			- Inventory Management
+		- Short-game
+			- Margin of Safety -> CVP Analysis
+			- Cost Centre -> Responsibility Accounting
+			- Make or Buy -> Relevant Costing
+			- Mix & Yield -> Standard Costing
+			- ARR vs IRR -> Capital Budgeting
+			- Customer Perspective -> Balanced Scorecard
+			- EOQ -> Working Capital Management
+				- Inventory Management
+			- Baumol Model -> Working Capital Management
+				- If EOS is applied with cash balance, it becomes Baumol Model
+				- William Baumol invented this model
+			- Gordon Model -> Capital Structure & Long-term Financing Decision
+				- Gordon Model and Cost of Equity ($K_e$) ?
+			- Du Pont Technique -> Financial Statement Analysis
+			- Price Elasticity -> Microeconomics
+			- Capital Markets -> Financial Markets
+				- Financial Markets -> Capital Markets and Money Markets
+		- ==*Completion over Mastery*==
+		- Management Accounting vs Financial Management
+			- 
+	- **Philippine CPA Exam vis-a-vis US CMA Exams**
 		- 
-	- Philippine CPA Exam vis-a-vis US CMA Exams
-		- ...
-	- Management Accounting vs Financial Management
+	- **Management Accounting vs Financial Management**
 		- ...
 
 ## File References
