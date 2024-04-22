@@ -89,6 +89,8 @@ ReSA-subj: MS
 						- The quantity you should order in order to optimize the ordering and carrying costs incurred.
 						- ==See *Equation 1: EOQ*==
 						- Another name for EOQ is *Optimal Order Quantity*. Total costs, whatever the output be, will be the lowest possible costs for the given parameters.
+						- **@EOQ: CC = OC**
+							- [ ] Further investigation is required
 			- When to make the order
 	- **Learning Curve**
 		- ...
@@ -102,13 +104,10 @@ whereas:
 - $O$ refers to costs of placing **one** order
 - $C$ refers to cost of carrying one unit for **one year**
 
-
-| Item Particulars | Formula | Whereas |
-| ---------------- | ------- | ------- |
-|                  |         |         |
-|                  |         |         |
-
-![[Pasted image 20240422104401.png]]
+| Item Particulars | Formula   | Whereas                                    |
+| ---------------- | --------- | ------------------------------------------ |
+| Carrying Costs   | (EOQ /2)C | (EOQ /2) is the average inventory in units |
+| Ordering Costs   | (D /EOQ)O | (D /EOQ) is the number of orders per year  |
 
 
 ## File References
