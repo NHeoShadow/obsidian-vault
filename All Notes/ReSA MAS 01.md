@@ -20,7 +20,17 @@ ReSA-subj: MS
 - MS-4701 (MS Subject Overview)
 	- MS Syllabus for the October 2024 CPA License Examination
 		- Note: that the official name is already Management Services (MS). The word "advisory" has been removed last October 2022 because the following topics were omitted:
-			- MS Management Consultancy, Project Feasibility Stud
+			- MS Management Consultancy, Project Feasibility Study, ABC & Activity-Based Management, Strategic Cost Management, PERT-CPM, Code of Ethics, among others
+		- There will be 70 MCQ questions, mix of theories and problems (50/50)
+			- Usual schedule for CPALE:
+				- D1 AM: MS
+				- D1 PM: AUD
+				- D2 AM: TAX
+				- D2 PM: RFBT
+				- D3 AM: FAR
+				- D3 PM: AFAR
+		- On 2028, the subject MS will be converted to BAR
+		- 
 	- Philippine CPA Exam vis-a-vis US CMA Exams
 		- ...
 	- Management Accounting vs Financial Management
