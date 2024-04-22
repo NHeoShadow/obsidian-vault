@@ -57,7 +57,11 @@ ReSA-subj: MS
 		- ...
 	- **Topic Proper**
 		- Management Accounting:: the use of accounting information by company management to make rational economic *decisions* in performing its function of *planning*, *organizing*, and *controlling* business operations
-			- In planning, organizing, and controlling, 
+			- In planning, organizing, and controlling, an objective basis is required in order to make decisions.
+		- Management accounting presents information differently compared to financial accounting.
+			- Example: Financial accounting presents income statement in function form, while management accounting presents income statement by behaviour
+			- Both draw from *the same* accounting database
+		- 
 
 ## File References
 
