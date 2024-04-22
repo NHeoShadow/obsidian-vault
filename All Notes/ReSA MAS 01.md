@@ -64,6 +64,16 @@ ReSA-subj: MS
 			- Cost accounting is a subset of both management and financial accounting
 				- ![[Pasted image 20240422094241.png]]
 		- Management accounting is *future oriented*
+		- *Three Management Functions*, in this same exact order:
+			- Planning - deciding on company goals and objectives and figures out how to achieve them.
+				- If you fail to plan, you plan to fail
+				- Associated terms: road mapping, goal setting
+			- Organizing - deciding on how to use company resources to put plans into action.
+				- Associated terms: directing and motivating; staffing and subordinating
+			- Controlling - deciding on what corrective actions to do should there be any difference between actual results and planned results
+				- Associated terms: monitoring; feedback mechanism
+			- Decision-making is an inherent function of management as ==**all**== management functions would require a certain level of decision-making; this makes management accounting information useful in all stages of management.
+		- Goal of Financial Management - modern managerial finance theory works under the premise that the primary goal of the firm is to maximize *==shareholders' wealth==*, rather than just to maximize profit. The financial manager acts in the shareholders' best interests by making decisions that maximize the *market value* of the company stocks (i.e., wealth creation)
 		- 
 
 ## File References
