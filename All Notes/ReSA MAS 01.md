@@ -110,7 +110,10 @@ ReSA-subj: MS
 			- ‼️ The learning curve is usually designated by the complement of the rate of reduction - if the rate of reduction is 20%, then there is an 80% learning curve.
 		- Take note of the following words: *average* and *double*
 		- [ ] **More notes shall be taken**
-		- [ ] 
+		- Units shall be **doubling**
+		- **Average decreases based on given rate**
+		- **Total** is units * average
+		- Difference between Total_n and Total_n-1 is the time spent to generate unit/s.
 
 ### Equations
 #### Economic Order Quantity (EOQ)
