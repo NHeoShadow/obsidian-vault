@@ -52,9 +52,12 @@ ReSA-subj: MS
 		- Management Accounting vs Financial Management
 			- 
 	- **Philippine CPA Exam vis-a-vis US CMA Exams**
-		- 
+		- 70% of US CMA Exam = 90% of PH CPALE MS
 	- **Management Accounting vs Financial Management**
 		- ...
+	- **Topic Proper**
+		- Management Accounting:: the use of accounting information by company management to make rational economic *decisions* in performing its function of *planning*, *organizing*, and *controlling* business operations
+			- In planning, organizing, and controlling, 
 
 ## File References
 
