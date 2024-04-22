@@ -92,6 +92,13 @@ ReSA-subj: MS
 						- **@EOQ: CC = OC**
 							- [ ] Further investigation is required
 			- When to make the order
+				- Stockout Costs (SC)
+				- Carrying Costs (CC)
+				- **Reorder Point**
+					- **See Equation 2**
+					- Lead time: either normal (average) or maximum
+						- Normal (average): 2 days
+						- Maximum: 4 days
 	- **Learning Curve**
 		- ...
 
@@ -108,6 +115,7 @@ whereas:
 | ---------------- | --------- | ------------------------------------------ |
 | Carrying Costs   | (EOQ /2)C | (EOQ /2) is the average inventory in units |
 | Ordering Costs   | (D /EOQ)O | (D /EOQ) is the number of orders per year  |
+#### Reorder Point
 
 
 ## File References
