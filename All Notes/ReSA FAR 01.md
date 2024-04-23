@@ -68,8 +68,11 @@
 			- goods are used for collateral
 			- Ownership is owned by seller
 		- Ownership is important to ensure that the amounts reported as inventory in the Statement of Financial Position is correct.
-	- 
+	- Cost of Inventory
+	- Inventory Systems (see Matrix Table 2 below)
 
+---
+#### Shipping Terms
 
 | Shipping Terms                     | Owner  | Freight |
 | ---------------------------------- | ------ | ------- |
@@ -81,6 +84,15 @@
 
 ![[Pasted image 20240423084351.png]]
 
+
+#### Inventory Systems
+
+| Particulars                  | Period                           | Perpetual                        |
+| ---------------------------- | -------------------------------- | -------------------------------- |
+| Records of inventory account | No                               | Yes                              |
+| Purchase of inventory        | d. Purchases<br>c. A/P (or Cash) | d. Inventory<br>c. A/P (or Cash) |
+| Freight-in                   | d. Freight-in<br>c. Cash         | d. Inventory<br>c. Cash          |
+| Purchase returns             | d. A/P<br>c. Purchase returns    | d. A/P<br>c. Inventory           |
 
 
 ---
