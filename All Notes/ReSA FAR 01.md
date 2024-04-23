@@ -79,8 +79,17 @@
 			- It reflects the true value of inventory
 				- Value is increasing, then ending inventory is increasing
 				- Value is decreasing, then ending inventory is decreasing
-				- 
-		- FIFO
+		- Weighted Average Method
+			- Periodic Average (or simple average)
+				- Cost of sales and ending inventory has an equal single cost *per unit*
+				- ==Cost per unit = TGAS in Peso / TGAS in units==
+					- Round to two decimal places
+			- Perpetual Average (or moving average)
+				- TGAS -> sold (COS) and unsold (EI)
+					- COS -> recent cost per unit
+					- EI -> total cost / remaining units
+				- Purchase transactions moves/changes
+				- Sale transaction remains the same
 	- Inventory Systems (**see Matrix Table 2 below**)
 		- Period and Perpetual Inventory Systems (ez)
 
