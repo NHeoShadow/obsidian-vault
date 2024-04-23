@@ -1,4 +1,7 @@
 
+### Insert Other Topics Here
+...
+
 ### Economic Order Quantity & Reorder Point
 **Economic Order Quantity**, or *EOQ*, refers to the optimal number of units to purchase for a unit taking into account all relevant costs related to purchasing. At EOQ level, the total costs will be at the lowest possible amount.
 
@@ -27,7 +30,7 @@ Meanwhile, the **reorder point** provides for the level by which a business enti
 
 - *Stockout Costs* refer to opportunity costs forfeited as a result of the entity being unable to conduct sales as a result of no inventory.
 
-In solving for the reorder point, the average and maximum *lead time* must be taken into account.
+In solving for the reorder point^[1], the average and maximum *lead time* must be taken into account.
 
 $$ RP = (l_x * d_a) s $$
 whereas:
@@ -35,8 +38,17 @@ whereas:
 - $d_a$ refers to the average daily demand; and
 - $s$ refers to safety stock.
 
+The safety stock level can be solved using this formula:
 
+$$ s = (l_m - l_x)d_a $$
+whereas:
+- $l_m$ refers to the average or normal lead time;
+- $l_x$ refers to the maximum lead time; and
+- $d_a$ refers to the average daily demand.
 
-
-> [!tip]
+> [!tip]- EOQ and RP
 > The EOQ answers *how many units to order?*, while the re-order point answers *when to make the order?*
+
+
+
+[1]: Alternatively, the following formula can also be used to compute for the reorder point: $RP = (l_m * d_a)$;whereas: $l_m$ refers to the maximum lead time; and $d_a$ refers to the average daily demand
