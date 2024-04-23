@@ -24,6 +24,8 @@
 			- For FOB Destination Point, ownership of inventory is transferred to buyer upon receipt of goods
 				- Freight out -> selling expense
 			- Cost, Insurance, and Freight (CIF) ownership is transferred to buyer upon actual shipment
+			- For Free Alongside Ship, transfer of ownership usually occurs in between
+		- If the problem is silent, the
 	- 
 
 
@@ -33,6 +35,10 @@
 | FOB Destination                    | Seller | Seller  |
 | Cost, Insurance, and Freight (CIF) | Buyer  | Seller  |
 | Free Alongside Ship (FAS)          | Buyer* | Buyer*  |
-*Note: 
+*Note: for FAS, buyer or seller; depends on the agreement of both parties. See image below*
+
+![[Pasted image 20240423084351.png]]
+
+
 
 [[Accounting for Inventories - Non Financial Asset.pdf]]
