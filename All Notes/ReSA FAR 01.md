@@ -68,8 +68,21 @@
 			- goods are used for collateral
 			- Ownership is owned by seller
 		- Ownership is important to ensure that the amounts reported as inventory in the Statement of Financial Position is correct.
-	- Cost of Inventory
-	- Inventory Systems (see Matrix Table 2 below)
+	- Cost Flow Assumptions (IAS2)
+		- Specific Identification
+			- Primarily used if costs are not interchangeable
+		- First-in; First-out method (FIFO)
+			- Cost of ending inventory is from the most recent purchases (manufactured)
+			- Beginning inventory cost is rare in ending inventory
+				- i.e., the items in beginning inventory is rare to be found in ending inventory.
+				- Assumption: beginning inventory is sold.
+			- It reflects the true value of inventory
+				- Value is increasing, then ending inventory is increasing
+				- Value is decreasing, then ending inventory is decreasing
+				- 
+		- FIFO
+	- Inventory Systems (**see Matrix Table 2 below**)
+		- Period and Perpetual Inventory Systems (ez)
 
 ---
 #### Shipping Terms
@@ -87,12 +100,15 @@
 
 #### Inventory Systems
 
-| Particulars                  | Period                           | Perpetual                        |
-| ---------------------------- | -------------------------------- | -------------------------------- |
-| Records of inventory account | No                               | Yes                              |
-| Purchase of inventory        | d. Purchases<br>c. A/P (or Cash) | d. Inventory<br>c. A/P (or Cash) |
-| Freight-in                   | d. Freight-in<br>c. Cash         | d. Inventory<br>c. Cash          |
-| Purchase returns             | d. A/P<br>c. Purchase returns    | d. A/P<br>c. Inventory           |
+| Particulars                                 | Period                                                                                                                                            | Perpetual                                                                       |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Records of inventory account                | No                                                                                                                                                | Yes                                                                             |
+| Purchase of inventory                       | d. Purchases<br>c. A/P (or Cash)                                                                                                                  | d. Inventory<br>c. A/P (or Cash)                                                |
+| Freight-in                                  | d. Freight-in<br>c. Cash                                                                                                                          | d. Inventory<br>c. Cash                                                         |
+| Purchase returns*, allowances, or discounts | d. A/P<br>c. Purchase returns*                                                                                                                    | d. A/P<br>c. Inventory                                                          |
+| Sale of Inventory                           | d. A/R (Cash)<br>c. Sales                                                                                                                         | d. A/R (Cash)<br>c. Sales<br><br>d. Cost of Sales<br>c. Inventory               |
+| Sales returns*                              | d. Sales return<br>c. A/R (Cash)                                                                                                                  | d. Sales return<br>c. A/R (Cash)<br><br>d. Inventory (Cost)<br>c. Cost of Sales |
+| Cost of Sales                               | (+) Beg. Inventory<br>(+) Net Purchases<br>(+) Freight-in<br>(=) Total Goods Available for Sale<br>(-) Ending Inventory<br>(=) Cost of Goods Sold | current balance of Cost of Sales account                                        |
 
 
 ---
