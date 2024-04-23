@@ -25,8 +25,28 @@
 				- Freight out -> selling expense
 			- Cost, Insurance, and Freight (CIF) ownership is transferred to buyer upon actual shipment
 			- For Free Alongside Ship, transfer of ownership usually occurs in between
-		- If the problem is silent, the
-	- 
+			- If the problem is silent, it is a good in transit
+		- Goods out on consignment
+			- Consignee is in possession, the consignor still owns the goods
+			- The unsold inventory shall comprise the inventory for goods on consignment
+			- Composition:
+				- Cost of goods
+				- Freight
+				- Capitalized cost
+			- Selling price of goods -> cost
+				- Conversion is based on how markup is added
+				- If based on sales:
+					- Selling Price * (100% - Gross Profit %)
+				- If based on cost
+					- Selling Price / (100% + Gross Profit %)
+		- Credit Card Sales
+			- Under PFRS15, if inventories is sold through credit cards, it is recognized upon sale because the performance obligation is already satisfied.
+			- **Ownership is already on buyer**. The amount due by the buyer is settled by the credit card company.
+		- Instalment Sales
+			- Reasonable assured (silent) - ownership is on buyer
+			- Not reasonable assured - ownership is on seller
+		- Lay Away Sales
+			- 
 
 
 | Shipping Terms                     | Owner  | Freight |
@@ -40,5 +60,7 @@
 ![[Pasted image 20240423084351.png]]
 
 
+
+---
 
 [[Accounting for Inventories - Non Financial Asset.pdf]]
