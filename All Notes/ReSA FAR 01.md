@@ -62,7 +62,13 @@
 			- Trial period lapses: buyer is owner
 				- This is considered to be sold already
 		- Bill and Hold Sales/Agreements
-			- 
+			- Buyer is owner of goods
+		- Repurchase agreement
+			- otherwise known as *buyback agreement*
+			- goods are used for collateral
+			- Ownership is owned by seller
+		- Ownership is important to ensure that the amounts reported as inventory in the Statement of Financial Position is correct.
+	- 
 
 
 | Shipping Terms                     | Owner  | Freight |
