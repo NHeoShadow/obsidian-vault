@@ -101,7 +101,7 @@ ReSA-subj: MS
 						- Maximum: 4 days
 					- Ensures that there is no extra carrying costs and there is no stockout.
 						- Stockouts results to income forfeited.
-	- **Learning Curve**
+	- **Learning Curve** (Various Topics)
 		- otherwise known as *experience curve*, *productivity curve*, or *efficiency curve*
 		- It is based on the phenomenon that labour time decreases in a definite pattern as labour operations are repeated. Learning curve describes the *efficiencies* arising from *experience* - with experience comes increased *productivity*.
 			- This productivity increases with production size, but at a decreasing rate as diagrammed below
