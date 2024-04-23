@@ -109,6 +109,12 @@
 			- Impaired if Cost is greater than NRV
 			- If NRV of Raw Materials is not available, then use the replacement cost
 				- [ ] What is replacement cost?
+	- Inventory Estimation Techniques
+		- Interim Reporting
+		- Gross Profit
+			- ![[Pasted image 20240423112122.png]]
+			- 
+		- Loss on Casualties/Calamities
 
 
 ---
