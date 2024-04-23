@@ -112,9 +112,10 @@
 	- Inventory Estimation Techniques
 		- Interim Reporting
 		- Gross Profit
-			- ![[Pasted image 20240423112122.png]]
-			- 
+			- ![[Pasted image 20240423112217.png]]
 		- Loss on Casualties/Calamities
+			- ![[Pasted image 20240423113007.png]]
+			- 
 
 
 ---
