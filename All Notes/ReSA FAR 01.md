@@ -21,12 +21,18 @@
 			- See Matrix Table 1 below
 			- For FOB Shipping Point, ownership of inventory is transferred to buyer upon actual shipment.
 				- Freight in -> capitalized
+			- For FOB Destination Point, ownership of inventory is transferred to buyer upon receipt of goods
+				- Freight out -> selling expense
+			- Cost, Insurance, and Freight (CIF) ownership is transferred to buyer upon actual shipment
+	- 
 
 
-| Shipping Terms     | Owner  | Freight |
-| ------------------ | ------ | ------- |
-| FOB Shipping Point | Buyer  | Buyer   |
-| FOB Destination    | Seller | Seller  |
-
+| Shipping Terms                     | Owner  | Freight |
+| ---------------------------------- | ------ | ------- |
+| FOB Shipping Point                 | Buyer  | Buyer   |
+| FOB Destination                    | Seller | Seller  |
+| Cost, Insurance, and Freight (CIF) | Buyer  | Seller  |
+| Free Alongside Ship (FAS)          | Buyer* | Buyer*  |
+*Note: 
 
 [[Accounting for Inventories - Non Financial Asset.pdf]]
