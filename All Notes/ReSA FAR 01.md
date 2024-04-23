@@ -101,7 +101,14 @@
 		- Write Down of Inventory (if NRV < Cost)
 			- Decrease in future utilization of inventory
 			- See Matrix Table 3 below
-		- 
+		- Write Down of Raw Materials
+			- General rule: depends on finished goods where raw materials will be issued.
+				- If Finished Goods is impaired, then raw materials is tested for write down
+				- If Finished Goods is NOT impaired, then raw materials is NOT tested for write down (use cost amount for RM)
+				- Essentially, if FG is impaired, then RM will be tested for write down
+			- Impaired if Cost is greater than NRV
+			- If NRV of Raw Materials is not available, then use the replacement cost
+				- [ ] What is replacement cost?
 
 
 ---
