@@ -128,6 +128,7 @@ whereas:
 | ---------------- | --------- | ------------------------------------------ |
 | Carrying Costs   | (EOQ /2)C | (EOQ /2) is the average inventory in units |
 | Ordering Costs   | (D /EOQ)O | (D /EOQ) is the number of orders per year  |
+|                  |           |                                            |
 #### Reorder Point
 
 | Item Particulars | Formula                                                                             |
