@@ -46,6 +46,22 @@
 			- Reasonable assured (silent) - ownership is on buyer
 			- Not reasonable assured - ownership is on seller
 		- Lay Away Sales
+		- Customer Acceptance
+			- A product that is manufactured for a particular customer with particular specifications, this is a special order and is considered to be *sold upon completion* (i.e., tailored-fit)
+		- Sale with right of return
+			- PFRS15: There is already a delivery of goods. Therefore, there is already a transfer of ownership.
+			- General rule for sales with right of return, ownership is already on buyer
+			- Revenue shall not be expected for those expected to be returned
+			- For amounts expected to be returned, do not recognize the portion that is expected to be returned.
+			- For the portion expected not to be returned, recognize as revenue already.
+		- Sale on Trial or Approval (ex.: AVON, beauty products)
+			- The customer is not yet committed to pay until the trial period lapses
+			- Control is not yet transferred to the customer until the trial period lapses or if the customer agrees to purchase such goods.
+			- General rule: the seller is the owner
+			- Customer acceptance: buyer is owner
+			- Trial period lapses: buyer is owner
+				- This is considered to be sold already
+		- Bill and Hold Sales/Agreements
 			- 
 
 
