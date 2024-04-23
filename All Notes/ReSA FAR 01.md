@@ -92,6 +92,17 @@
 				- Sale transaction remains the same
 	- Inventory Systems (**see Matrix Table 2 below**)
 		- Period and Perpetual Inventory Systems (ez)
+	- Presentation of Inventory
+		- Lower of Cost and Net Realizable Value (LCNRV)
+			- (+) Estimated Selling Price
+			- (-) Estimated Cost to Sell
+			- (-) Estimated Cost to Complete
+			- (=) Net Realizable Value
+		- Write Down of Inventory (if NRV < Cost)
+			- Decrease in future utilization of inventory
+			- See Matrix Table 3 below
+		- 
+
 
 ---
 #### Shipping Terms
@@ -118,6 +129,14 @@
 | Sale of Inventory                           | d. A/R (Cash)<br>c. Sales                                                                                                                         | d. A/R (Cash)<br>c. Sales<br><br>d. Cost of Sales<br>c. Inventory               |
 | Sales returns*                              | d. Sales return<br>c. A/R (Cash)                                                                                                                  | d. Sales return<br>c. A/R (Cash)<br><br>d. Inventory (Cost)<br>c. Cost of Sales |
 | Cost of Sales                               | (+) Beg. Inventory<br>(+) Net Purchases<br>(+) Freight-in<br>(=) Total Goods Available for Sale<br>(-) Ending Inventory<br>(=) Cost of Goods Sold | current balance of Cost of Sales account                                        |
+
+#### Write Down of Inventory
+
+| Item Particulars              | Direct        | Allowance                                                                                                                  |
+| ----------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Recording of Ending Inventory | LCNRV         | Cost                                                                                                                       |
+| Write Down                    | Cost of Sales | Lost of Inventory Write Down                                                                                               |
+| Valuation Account             | N/A           | Allowance for Inventory Write Down:<br><br>(=) Ending Inventory @Cost<br>(-) Ending Inventory @LCNRV<br>(=) Allowance, end |
 
 
 ---
