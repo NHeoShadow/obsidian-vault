@@ -23,6 +23,9 @@ ReSA-subj: MS
 			- Whether to make the product within the company or buy from external sources.
 			- Criteria: lowest cost is the preferred decision.
 			- Fixed Factory Overhead Costs will still be incurred if the decision is to buy, unless the problem provides for otherwise.
+			- Opportunity Costs is a *relevant cost*
+			- The maximum amount that a company is willing to pay an outside supplier is the maximum purchase price
+			- Also take into account the quality of the product that is being bought.
 		- Accept or Reject
 		- Continue or Shutdown
 		- Sell or Process Further
