@@ -26,8 +26,8 @@ ReSA-subj: MS
 			- Opportunity Costs is a *relevant cost*
 			- The maximum amount that a company is willing to pay an outside supplier is the maximum purchase price
 			- Also take into account the quality of the product that is being bought (in reality).
-			- 
 		- Accept or Reject
+			- 
 		- Continue or Shutdown
 		- Sell or Process Further
 		- Best Product Combination
