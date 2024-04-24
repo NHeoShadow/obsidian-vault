@@ -7,7 +7,16 @@ Management accounting refers to the use of *accounting information* by company m
 
 Meanwhile, financial accounting deals with the reporting of past economic events of the business entity. Both management and financial accounting use the same accounting data to report the status of the entity or make decisions for the company's venture.
 
-Actually, financial an
+> [!tip] Did you know?
+> Cost Accounting is a subset of both management and financial accounting. Actually, cost accounting should have been included in both FAR and MS subjects under the LECPA agreement. 
+> 
+> It is used to derive the cost of a unit, which is subsequently used to compute for the selling price (management) and cost of goods sold (financial).
+> 
+> A *gentlemen's agreement* was formed to only include cost accounting for MS in the LECPA.
+
+
+
+
 
 
 
