@@ -35,7 +35,9 @@ ReSA-subj: MS
 		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
 		- Using Differential Analysis, only the increase based on the contribution margin is analysed.
 		- ==Differential Analysis is the preferred method.==
-	- 
+	- **Special Order Pricing**
+		- @full capacity, minimum selling price is unit selling price
+		- @excess capacity, minimum selling price is unit variable cost
 ---
 
 ### Relevant Files
