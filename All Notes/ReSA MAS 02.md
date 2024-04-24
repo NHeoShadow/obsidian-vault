@@ -50,7 +50,7 @@ ReSA-subj: MS
 		- @full capacity, minimum selling price is unit selling price
 		- @excess capacity, minimum selling price is unit variable cost
 - **Linear Programming**
-	- 
+- 
 ---
 
 ### Relevant Files
