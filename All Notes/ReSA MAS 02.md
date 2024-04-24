@@ -40,6 +40,7 @@ ReSA-subj: MS
 			- *Joint Costs* 
 			- There is no point of selling a product with 0 profit value. 
 		- Best Product Combination
+			- Ensure that demand (or units to be sold) is taken into account as a factor.
 	- **Total Analysis vs Differential Costs** (review recording if ever)
 		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
 		- Using Differential Analysis, only the increase based on the contribution margin is analysed.
