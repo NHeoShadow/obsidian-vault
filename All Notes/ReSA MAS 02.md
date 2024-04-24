@@ -5,3 +5,9 @@ topics-covered:
 presider: Charlwin "Aljon" P. Lee, CPA, CMA
 ReSA-subj: MS
 ---
+
+- Covers *1.4.1* in CPALE syllabus
+- 
+---
+
+### Relevant Files
