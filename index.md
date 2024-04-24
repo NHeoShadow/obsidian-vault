@@ -16,6 +16,7 @@ This website focuses on topics covered in the CPALE using ReSA’s study guide a
 > - [[CPALE/05 - RFBT/index|Regulatory Framework for Business Transactions]] covers the laws and regulations affecting business transactions.
 > - [[CPALE/06 - TAX/index|Philippine Taxation]] focuses on the application of taxation laws and regulations in the practice.
 
+
 > [!info]- Related standards and issuances
 > - IFRS
 > - IAS
@@ -29,6 +30,10 @@ This website focuses on topics covered in the CPALE using ReSA’s study guide a
 > - The Rules of Court
 > - [[D-ENGL003|English in the Workplace course]]
 
+> [!quote]- Panunumpa ng Propesyonal
+> Ako, si (pangalan) ay taimtim na nanunumpa na itataguyod ko at ipagtatanggol ang Saligang Batas ng Pilipinas, na ako ay tunay na mananalig at tatalima rito; na susundin ko ang mga batas, mga utos na legal, at mga atas na ipinahayag ng mga sadyang itinakdang may kapangyarihan ng Republika ng Pilipinas; at kusa kong babalikatin ang pananagutang ito, na walang ano mang pasubali o hangaring umiwas.
+> 
+> Taimtim pa rin akong manunumpa na sa lahat ng panahon at pook na kinaroroonan ay mahigpit akong manghahawakan sa mga etikal at tuntuning propesyonal ng mga Certified Public Accountants sa Pilipinas, at marapat kong gagampanan ng buong husay sa abot ng aking makakaya ang mga tungkulin at pananagutang iniatang sa isang itinakdang Certfiied Public Accountant.
 ## How to browse
 To use this digital garden, it is highly recommended that you have gained mastery for a particular subject matter. The notes contained herein are more of a _recall_ for all the lessons under the board exams. Other tips include:
 
