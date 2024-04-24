@@ -24,6 +24,10 @@ ReSA-subj: MS
 		- Continue or Shutdown
 		- Sell or Process Further
 		- Best Product Combination
+	- **Total Analysis vs Differential Costs**
+		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
+		- Using Differential Analysis, only the increase based on the contribution margin is analysed.
+	- 
 ---
 
 ### Relevant Files
