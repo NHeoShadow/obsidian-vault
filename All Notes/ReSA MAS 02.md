@@ -27,8 +27,8 @@ ReSA-subj: MS
 			- The maximum amount that a company is willing to pay an outside supplier is the maximum purchase price
 			- Also take into account the quality of the product that is being bought (in reality).
 		- Accept or Reject
-			- 
 		- Continue or Shutdown
+			- Common fixed 
 		- Sell or Process Further
 		- Best Product Combination
 	- **Total Analysis vs Differential Costs** (review recording if ever)
