@@ -31,8 +31,13 @@ ReSA-subj: MS
 		- Continue or Shutdown
 			- Common fixed expenses are irrelevant costs; it is allocated on a per-branch basis.
 			- ![[Pasted image 20240424100320.png]]
-			- If units produced is greater than shutdown point, then continue
+			- If units produced is greater than shutdown point, then continue.
+			- If units produced is less than shutdown point, then shutdown.
+			- If units produced is equal to shutdown point, either continue or shutdown (indifference).
+			- ==Shutdown Point -> Indifference Point==
+			- Segment Margin = Contribution Margin - Traceable Fixed Costs
 		- Sell or Process Further
+			- *Joint Costs* 
 		- Best Product Combination
 	- **Total Analysis vs Differential Costs** (review recording if ever)
 		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
