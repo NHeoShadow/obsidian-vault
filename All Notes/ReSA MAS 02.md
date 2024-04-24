@@ -18,6 +18,7 @@ ReSA-subj: MS
 		- costs that shall be incurred in the **future**; **and**
 			- Costs that were already incurred are *sunk costs*
 		- costs should be different between the alternatives.
+	- Relevant Costing can only handle one (1) constraint. If there are multiple constraints, then the appropriate method would be **linear programming**.
 	- *Variable Costs* are relevant costs.
 	- Sub-categories:
 		- Make or Buy
@@ -48,6 +49,8 @@ ReSA-subj: MS
 	- **Special Order Pricing**
 		- @full capacity, minimum selling price is unit selling price
 		- @excess capacity, minimum selling price is unit variable cost
+- **Linear Programming**
+	- 
 ---
 
 ### Relevant Files
