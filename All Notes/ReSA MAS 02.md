@@ -38,6 +38,7 @@ ReSA-subj: MS
 			- Segment Margin = Contribution Margin - Traceable Fixed Costs
 		- Sell or Process Further
 			- *Joint Costs* 
+			- There is no point of selling a product with 0 profit value. 
 		- Best Product Combination
 	- **Total Analysis vs Differential Costs** (review recording if ever)
 		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
