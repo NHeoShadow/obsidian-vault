@@ -20,13 +20,17 @@ ReSA-subj: MS
 	- *Variable Costs* are relevant costs.
 	- Sub-categories:
 		- Make or Buy
+			- Whether to make the product within the company or buy from external sources.
+			- Criteria: lowest cost is the preferred decision.
+			- Fixed Factory Overhead Costs will still be incurred if the decision is to buy, unless the problem provides for otherwise.
 		- Accept or Reject
 		- Continue or Shutdown
 		- Sell or Process Further
 		- Best Product Combination
-	- **Total Analysis vs Differential Costs**
+	- **Total Analysis vs Differential Costs** (review recording if ever)
 		- Using Total Analysis, the profit is computed using the income statement in a whole approach.
 		- Using Differential Analysis, only the increase based on the contribution margin is analysed.
+		- ==Differential Analysis is the preferred method.==
 	- 
 ---
 
