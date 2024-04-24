@@ -28,7 +28,7 @@ ReSA-subj: MS
 			- Also take into account the quality of the product that is being bought (in reality).
 		- Accept or Reject
 		- Continue or Shutdown
-			- Common fixed 
+			- Common fixed expenses are irrelevant costs; it is allocated on a per-branch basis.
 		- Sell or Process Further
 		- Best Product Combination
 	- **Total Analysis vs Differential Costs** (review recording if ever)
