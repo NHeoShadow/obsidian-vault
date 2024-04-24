@@ -13,6 +13,7 @@ ReSA-subj: MS
 	- Choosing from *at least* two (2) alternatives
 	- The objective in making a decision is to ==maximize profit==
 		- Our goal is not to make profit, but to **MAXIMIZE** profit; minimize cost and maximize revenue
+	- 
 	- **Relevant Costs** are:
 		- costs that shall be incurred in the **future**; **and**
 			- Costs that were already incurred are *sunk costs*
@@ -29,6 +30,8 @@ ReSA-subj: MS
 		- Accept or Reject
 		- Continue or Shutdown
 			- Common fixed expenses are irrelevant costs; it is allocated on a per-branch basis.
+			- ![[Pasted image 20240424100320.png]]
+			- If units produced is greater than shutdown point, then continue
 		- Sell or Process Further
 		- Best Product Combination
 	- **Total Analysis vs Differential Costs** (review recording if ever)
