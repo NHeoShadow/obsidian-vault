@@ -106,6 +106,12 @@ ReSA-subj: AFAR
 			- **If silent, then: Reduction of factory overhead control**
 			- Reduction in the Cost of Materials traceable to the particular job
 			- ![[Pasted image 20240425102232.png]]
+		- Spoiled Goods
+			- Either partially or fully completed units, for reason of being spoiled, cannot be corrected because it is **not technically possible** to correct them, or it is not economical to correct them. Hence, no longer part of good units.
+			- Spoilage may either be:
+				- Charged to Particular Job - due to exacting specifications or customer-imposed standards
+				- Charged to All Production / Factory Overhead - due to internal failure brought about by an employee error or worn-out machinery.
+			- ![[Pasted image 20240425102709.png]]
 			- 
 - AFAR 02: Process Costing
 	- …
