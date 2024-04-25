@@ -114,7 +114,10 @@ ReSA-subj: AFAR
 			- ![[Pasted image 20240425102709.png]]
 		- Defective Goods
 			- The process of correcting defective units in order to bring them into sale-able condition. Additional rework costs will be incurred. Reworked units are still part of good units.
-			- Rework may either be
+			- If fault of customer, debit to WIP
+			- If fault of our own, charged to FOH
+			- ![[Pasted image 20240425104319.png]]
+			- 
 - AFAR 02: Process Costing
 	- …
 
