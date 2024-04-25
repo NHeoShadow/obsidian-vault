@@ -97,7 +97,16 @@ ReSA-subj: TAX
 				- Not-recently purchased: 3x pawn value
 			- Unlisted common shares – book value based on latest AFS
 			- Preference shares: Par value
-	- Inclusions in Gross Es
+	- Inclusions in Gross Estate
+		- Are items not in the possession of the decedent at the time of his death included in the gross estate?
+			- General rule: No
+			- Certain exceptions:
+				- Retirement Proceeds under RA 4917 (NIRC, Section 85(C))
+				- Transfers for Insufficient Consideration (NIRC, Section 85(G))
+				- Proceeds of Life Insurance (NIRC, Section 85(E))
+					- See Table 3
+					- Presumption under Insurance Code
+						- The insured shall have the right to change the beneficiary he designated in the policy, unless he has expressly waived this right in said policy. Notwithstanding the foregoing, in the event the insured does not change the beneficiary during his lifetime, the designation sh
 
 
 ### Appendix
@@ -119,6 +128,12 @@ Table 2: Situs of Income (Income Tax)
 | RA      | Y          | N       |
 | NRAETB  | Y          | N       |
 | NRANETB | Y          | N       |
+Table 3: Beneficiary of Proceeds of Life Insurance
+
+| Beneficiary                        | Revocable | Irrevocable |
+| ---------------------------------- | --------- | ----------- |
+| Third Person                       | Yes       | EXCLUDED    |
+| Executor, administrator, or estate | Yes       | Yes         |
 
 
 ### File References
