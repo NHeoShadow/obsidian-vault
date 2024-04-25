@@ -116,9 +116,13 @@ ReSA-subj: TAX
 				- Transfers with retention or reservation of rights (Section 85(C), NIRC)
 		- RIP C CaReGiVeR
 			- ![[Pasted image 20240425190338.png]]
-		- All of the following are excluded from gross estate, except:
-			- Merger of the naked title with the owner of the usufruct.
-			- See Section 87(A): The merger of usufruct
+	- All of the following are excluded from gross estate, except:
+		- Merger of the naked title with the owner of the usufruct.
+		- See Section 87(A): The merger of usufruct with the owner of the naked title.
+			- ![[Pasted image 20240425190829.png]]
+		- The transmission or delivery of the inheritance or legacy by the fiduciary…
+			- ![[Pasted image 20240425191031.png]]
+		- The transmission from the first heir, legatee, or donee in favour of another bene
 
 
 ### Appendix
