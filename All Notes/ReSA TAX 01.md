@@ -78,6 +78,12 @@ ReSA-subj: TAX
 - Reciprocity Rule
 	- No tax shall be collected in respect of **intangible personal property (IPP**) if the decedent at the time of his death was a citizen and resident of a foreign country which at the time of his death did not impose a transfer tax or allows an exemption in respect of IPP of citizens of PH not residing in that foreign country.
 		- NIRC, Section 104
+	- Intangible Properties (FIENDS):
+		- Franchise which must be exercised in PH
+		- Shares or Rights in any partnership, business or industry established in the PH
+		- Shares, obligations, and bonds (SOB) by any foreign corporation 85% of the business of which is not located abroad
+		- SOB issued by any corporation or *sociedad anonima* organized or constituted in the PH
+		- SOB issued by any foreign corporation if such SOB have acquired a business situs in PH.
 	- See Table 2
 
 
