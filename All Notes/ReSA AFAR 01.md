@@ -20,7 +20,24 @@ ReSA-subj: AFAR
 	- It is a system that records, summarizes, analyses, and interprets the details of the cost of materials, labour, and overhead necessary to produce and sell an article or product.
 	- Also see: [[MS-A - Overview of Management Services#Introduction to Management Accounting]]
 	- Basic classification of costs:
-		- Product Costs - applies to sold and
+		- Product Costs - applies to sold and unsold units
+			- Sold units → cost of goods sold
+			- Unsold units → capitalizable unsold inventory (ending)
+			- Different types of product costs:
+				- Direct Materials Used
+					- It is a Direct Material if it is a significant material used in producing a product.
+					- For insignificant or immaterial materials, such as screws, they are called as *Indirect materials*
+				- Direct Labour
+					- Labour Work Force *directly* involved in the manufacturing process
+				- Manufacturing Overhead
+					- Costs incurred other than Direct Materials Used and Direct Labour
+					- Essentially, a *miscellaneous* item. Examples include:
+						- Indirect Materials Used
+						- Indirect Labour
+						- Rent of Factory
+						- Depreciation of Manufacturing Equipment
+		- Period Costs - applies to sold units (operating expenses)
+			- 
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
