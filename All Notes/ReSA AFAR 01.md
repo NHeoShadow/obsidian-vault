@@ -73,7 +73,14 @@ ReSA-subj: AFAR
 			- Actual Manufacturing Overhead → costs actually incurred in the factory
 				- ![[Pasted image 20240425090307.png]]
 			- Applied Manufacturing Overhead → predetermined overhead rate, formula is as follow:
-				- ![[Pasted image 20240425090331.png]]
+				- ![[Pasted image 20240425090518.png]]
+				- ![[Pasted image 20240425090558.png]]
+				- Manufacturing Overhead Account
+					- Actual FOH → debit
+					- Applied FOH → creidt
+					- Net balance:
+						- If actual FOH > applied FOH, then it is an *underapplied* overhead, thus, an *unfavourable* vacai
+			- 
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
