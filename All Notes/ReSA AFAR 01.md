@@ -119,7 +119,22 @@ ReSA-subj: AFAR
 			- ![[Pasted image 20240425104319.png]]
 			- 
 - AFAR 02: Process Costing
-	- …
+	- Definition of Process Costing
+		- This method is used when products are manufactured under the condition of continuous processing or mass production methods where the products manufactured within a department (cost centre) are *homogeneous* (or similar products) with equal amounts of materials, labour, and overhead applied to such products.
+		- These conditions often exist in industries that produce homogeneous products or commodities such as paper, lumber, pipe petroleum, textiles, steel, wire, bricks, cement, flour, sugar, peanut butter, meat, sugar, cereals, linoleum, leather, nylon, tires and tubes, glass, mining, and canneries
+		- The cost accumulation of materials, labour, and overhead must be by department or cost centre.
+		- The cost assigned to each unit is determined by dividing the total cost charged to the cost centre by the number of units produced.
+	- Two Process Costing-Related Reports
+		- Production Report - shows the number of units that:
+			- Were in process in the department at the start of the month;
+			- The number of units transferred out of the department during the month;
+			- The number of units still in work in process at the end of the month; and
+			- The percentage of completion of the units still in process at the end of the month.
+		- Cost of Production Report
+	- Methods of Treating the Beginning Inventory
+	- Methods of Application of Cost Elements in Process Costing
+	- Accounting for Lost Units
+	- 
 
 ### Appendix
 Table 1. Cost Accumulation System
