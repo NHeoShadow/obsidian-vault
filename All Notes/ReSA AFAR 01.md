@@ -11,6 +11,9 @@ ReSA-subj: AFAR
 - AFAR Syllabus Overview
 	- ![[Pasted image 20240425080706.png]]
 	- Those in red are requested topics in ReSA
+	- Total 16 Lecture Hours
+		- April 25, May 02, May 07, and May 09 (8AM to 12NN0
+		- Screen Breaks will be done in 10-min intervals
 - AFAR 01: Job Order Costing
 	- …
 - AFAR 02: Process Costing
