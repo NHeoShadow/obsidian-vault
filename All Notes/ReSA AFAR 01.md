@@ -95,7 +95,18 @@ ReSA-subj: AFAR
 						- ==(TRANSFER SOME ITEMS TO JOB ORDER COSTING)==
 - AFAR 01: Job Order Costing
 	- ![[Pasted image 20240425100032.png]]
-	- 
+	- Scrap Materials
+		- **unavoidable** during production
+		- It refers to filings or excessive trimmings of materials
+		- Defective materials that cannot be returned to vendor or not suitable for manufacturing operations; or
+		- Broken parts as a result of an employee error or machine breakdowns that causes the product in a poor-quality condition.
+		- Scrap Sales may be accounted for as follows:
+			- Additional revenue (if immaterial)
+			- Reduction of cost of goods sold
+			- **If silent, then: Reduction of factory overhead control**
+			- Reduction in the Cost of Materials traceable to the particular job
+			- ![[Pasted image 20240425102232.png]]
+			- 
 - AFAR 02: Process Costing
 	- …
 
