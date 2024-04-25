@@ -79,7 +79,15 @@ ReSA-subj: AFAR
 					- Actual FOH → debit
 					- Applied FOH → creidt
 					- Net balance:
-						- If actual FOH > applied FOH, then it is an *underapplied* overhead, thus, an *unfavourable* vacai
+						- If actual FOH > applied FOH, then it is an *underapplied* overhead, thus, an *unfavourable* variance
+						- If actual FOH < applied FOH, then it is an *overapplied* overhead, thus, a *favourable* variance
+						- Disposition of overhead variance
+							- If insignificant, then close the variance to Cost of Goods Sold
+							- If significant, close the variance among the ending balances of the following:
+								- WIP
+								- FG
+								- CGS
+								- Use the r
 			- 
 - AFAR 01: Job Order Costing
 	- 
