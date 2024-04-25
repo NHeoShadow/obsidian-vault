@@ -15,8 +15,14 @@ ReSA-subj: AFAR
 		- April 25, May 02, May 07, and May 09 (8AM to 12NN0
 		- Screen Breaks will be done in 10-min intervals
 	- ![[Pasted image 20240425081802.png]]
+- Cost Accounting
+	- Refers to recording, classifying, and reporting all costs aspects of company performance during a particular period of time.
+	- It is a system that records, summarizes, analyses, and interprets the details of the cost of materials, labour, and overhead necessary to produce and sell an article or product.
+	- Also see: [[MS-A - Overview of Management Services#Introduction to Management Accounting]]
+	- Basic classification of costs:
+		- Product Costs - applies to sold and
 - AFAR 01: Job Order Costing
-	- …
+	- 
 - AFAR 02: Process Costing
 	- …
 
