@@ -117,9 +117,8 @@ ReSA-subj: AFAR
 			- If fault of customer, debit to WIP
 			- If fault of our own, charged to FOH
 			- ![[Pasted image 20240425104319.png]]
-			- 
 - AFAR 02: Process Costing
-	- …
+	- 
 
 ### Appendix
 Table 1. Cost Accumulation System
