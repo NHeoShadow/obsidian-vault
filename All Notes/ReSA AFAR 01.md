@@ -94,6 +94,7 @@ ReSA-subj: AFAR
 						- ![[Pasted image 20240425091501.png]]
 						- ==(TRANSFER SOME ITEMS TO JOB ORDER COSTING)==
 - AFAR 01: Job Order Costing
+	- ![[Pasted image 20240425100032.png]]
 	- 
 - AFAR 02: Process Costing
 	- …
