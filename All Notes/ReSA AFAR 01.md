@@ -67,7 +67,8 @@ ReSA-subj: AFAR
 		- Normal Costing System → DM and DL are recorded in actual amount. FOH is in applied amount.
 	- Inventory Account Components
 		- ![[Pasted image 20240425085613.png]]
-	- 
+	- Statement of Cost of Goods Manufactured and Sold
+		- ![[Pasted image 20240425085859.png]]
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
