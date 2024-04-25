@@ -69,6 +69,11 @@ ReSA-subj: AFAR
 		- ![[Pasted image 20240425085613.png]]
 	- Statement of Cost of Goods Manufactured and Sold
 		- ![[Pasted image 20240425085859.png]]
+		- Manufacturing Overhead
+			- Actual Manufacturing Overhead → costs actually incurred in the factory
+				- ![[Pasted image 20240425090307.png]]
+			- Applied Manufacturing Overhead → predetermined overhead rate, formula is as follow:
+				- ![[Pasted image 20240425090331.png]]
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
