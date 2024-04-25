@@ -63,6 +63,44 @@ ReSA-subj: TAX
 			- RR No. 12-2018, Section 3
 		- Latest amendment on estate tax: January 2018
 		- For CPALE, do not study the old law
+		- Upon the death of the decedent, the right of the *State* to tax the privilege to transmit the estate vests instantly upon death.
+			- Re: A777, RA 386
+	- Gross Estate
+		- Composition of Gross Estate
+			- Real or personal
+			- Tangible or intangible
+			- Owned by the decedent
+			- At the time of this death
+		- Gross Estate per Taxpayer (situs rule)
+			- See Table 1
+			- Also see Table 2
+		- 
+- Reciprocity Rule
+	- No tax shall be collected in respect of **intangible personal property (IPP**) if the decedent at the time of his death was a citizen and resident of a foreign country which at the time of his death did not impose a transfer tax or allows an exemption in respect of IPP of citizens of PH not residing in that foreign country.
+		- NIRC, Section 104
+	- See Table 2
+
+
+### Appendix
+Table 1: Gross Estate per Taxpayer (situs rule)
+
+|     | Within | Without |
+| --- | ------ | ------- |
+| RC  | Y      | Y       |
+| NRC | Y      | Y       |
+| RA  | Y      | Y       |
+| NRA | Y      | N       |
+
+Table 2: Situs of Income (Income Tax)
+
+|         | Within     | Without |
+| ------- | ---------- | ------- |
+| RC      | Y          | Y       |
+| NRC     | **Recip*** | N       |
+| RA      | Y          | N       |
+| NRAETB  | Y          | N       |
+| NRANETB | Y          | N       |
+
 
 ### File References
 [[TAX01 - Estate Tax.pdf]]
