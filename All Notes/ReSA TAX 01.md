@@ -110,6 +110,15 @@ ReSA-subj: TAX
 						- If the problem is silent, then deemed irrevocable
 				- Transfers in contemplation of death (NIRC, Section 85(B))
 				- Conditional Transfers (See Table 4)
+				- Revocable Transfers (Section 85(C), NIRC)
+				- Transfers under a general power of appointment (Section 85(D), NIRC)
+				- Void Transfers → still included in gross estate
+				- Transfers with retention or reservation of rights (Section 85(C), NIRC)
+		- RIP C CaReGiVeR
+			- ![[Pasted image 20240425190338.png]]
+		- All of the following are excluded from gross estate, except:
+			- Merger of the naked title with the owner of the usufruct.
+			- See Section 87(A): The merger of usufruct
 
 
 ### Appendix
