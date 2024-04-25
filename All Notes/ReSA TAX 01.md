@@ -45,7 +45,24 @@ ReSA-subj: TAX
 		- Settlement of claims of creditors
 		- If may matira: partition and distribution of the estate
 	- Characteristics of Estate Tax
-		- National Tax → imposed by the National Gov
+		- National Tax → imposed by the National Government
+		- Proportional Tax → uniform tax rate (6%)
+		- Ad valorem Tax → based on the value of the properties left by the decedent
+		- Privilege/Transactional Tax
+		- Direct Tax; no tax shifting occurs
+	- Estate Tax Rate
+		- 6%
+		- Base: Net Taxable Estate
+		- Effectivity: January 2018
+	- Basic Principles
+		- Estate tax is **NOT** a tax on death
+		- Estate tax is a tax on succession from the decedents to the transferees
+		- Estate tax is **NOT** a tax on properties. Tax on properties is property tax
+		- Estate tax is different from inheritance tax
+		- Estate taxation is governed by the statute in force **at the time of death** of the decedent.
+			- RR No. 12-2018, Section 3
+		- Latest amendment on estate tax: January 2018
+		- For CPALE, do not study the old law
 
 ### File References
 [[TAX01 - Estate Tax.pdf]]
