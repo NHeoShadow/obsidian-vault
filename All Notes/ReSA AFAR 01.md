@@ -23,23 +23,36 @@ ReSA-subj: AFAR
 		- Product Costs - applies to sold and unsold units
 			- Sold units → cost of goods sold
 			- Unsold units → capitalizable unsold inventory (ending)
-			- Different types of product costs:
-				- Direct Materials Used
+			- Different types of manufacturing costs:
+				- Direct Materials Used (DMU)
 					- It is a Direct Material if it is a significant material used in producing a product.
 					- For insignificant or immaterial materials, such as screws, they are called as *Indirect materials*
-				- Direct Labour
+				- Direct Labour (DL)
 					- Labour Work Force *directly* involved in the manufacturing process
-				- Manufacturing Overhead
+				- Manufacturing Overhead (MOH)
 					- Costs incurred other than Direct Materials Used and Direct Labour
 					- Essentially, a *miscellaneous* item. Examples include:
 						- Indirect Materials Used
 						- Indirect Labour
 						- Rent of Factory
 						- Depreciation of Manufacturing Equipment
+			- Direct Costs → visible costs, and is composed of DMU and DL
+			- Indirect Cost → not visible costs, and is composed of MOH
+			- Prime Costs → primary ingredients to convert raw materials to final product. Composed of DMU and DL
+			- Conversion Costs → used to convert raw materials into final products. Composed of DL and MOH
+			- Total Manufacturing Costs (TMC) → DMU + DL + MOH
+			- Cost Flow, in this particular order:
+				- TMC → WIP → FG → COGS
 		- Period Costs - applies to sold units (operating expenses)
 			- Different types of period costs:
 				- Distribution/selling expenses → freight out, gasoline and oil, delivery truck repairs, delivery workers’ salaries, advertising and salesperson’s salaries
 				- Administrative expenses → office supplies, rent of office, & depreciation of non-manufacturing equipment
+	- Cost Accumulation Procedures
+		- Job Order Costing
+		- Process Costing
+		- Hybrid/Operation Costing (or Blended Method)
+			- Uses job order and process costing at the same time
+		- Backflush Costing
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
