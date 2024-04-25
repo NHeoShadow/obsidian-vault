@@ -37,7 +37,9 @@ ReSA-subj: AFAR
 						- Rent of Factory
 						- Depreciation of Manufacturing Equipment
 		- Period Costs - applies to sold units (operating expenses)
-			- 
+			- Different types of period costs:
+				- Distribution/selling expenses → freight out, gasoline and oil, delivery truck repairs, delivery workers’ salaries, advertising and salesperson’s salaries
+				- Administrative expenses → office supplies, rent of office, & depreciation of non-manufacturing equipment
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
