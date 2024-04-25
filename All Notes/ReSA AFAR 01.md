@@ -52,16 +52,31 @@ ReSA-subj: AFAR
 			- Uses products that are manufactured *within* a department, or cost centre that are **heterogeneous** or **dissimilar**.
 			- These products are manufactured *individually* or in *distinct lots* or batches; each job requires different amounts of materials, labour, and overhead.
 			- Accumulates costs applicable to each specified job order or lot of similar goods manufactured on a specific order for stock or for a customer.
-			- Job is assigned a nu
+			- Job is assigned a number and a form called the **job cost sheet**.
+			- When completed, job cost sheet shows the *total costs* for the completed job.
+			- Job cost per unit may then be obtained by dividing the total cost of the job by the number of units completed.
 		- Process Costing
 		- Hybrid/Operation Costing (or Blended Method)
 			- Uses job order and process costing at the same time
 		- Backflush Costing
 			- Complements Just-in-Time (JIT)
+	- Cost Accumulation System (see Table 1 below)
+		- Actual Costing System → DM, DL, and FOH are recorded in actual amount
+		- Normal Costing System → DM and DL are recor
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
 	- …
+
+### Appendix
+Table 1. Cost Accumulation System
+
+|     | Actual Costing System | Normal Costing System | Standard Costing System |
+| --- | --------------------- | --------------------- | ----------------------- |
+| DM  | Actual                | Actual                | Standard                |
+| DL  | Actual                | Actual                | Standard                |
+| FOH | Actual                | Applied               | Standard                |
+
 
 ### File References
 [[ReSA - DLSU D - AFAR - HO1 - Job Order Costing.pdf]]
