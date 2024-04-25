@@ -84,7 +84,20 @@ ReSA-subj: TAX
 		- Shares, obligations, and bonds (SOB) by any foreign corporation 85% of the business of which is not located abroad
 		- SOB issued by any corporation or *sociedad anonima* organized or constituted in the PH
 		- SOB issued by any foreign corporation if such SOB have acquired a business situs in PH.
-	- See Table 2
+		- Cash is an intangible personal property (HUH?)
+			- Because it is only an obligation or right to acquire an item of equal value;
+			- It is a contract promulgated by BSP or something
+		- See Table 2
+	- Valuation of Gross Estate
+		- The properties comprising the gross estate shall be valued according to their **FAIR MARKET VALUE** as of the **TIME OF DECEDENT’S DEATH**
+		- Fair Market Value Rules
+			- Real Property: Zonal Value (Section 88B, NIRC)
+			- Personal Properties
+				- Recently Purchased: item price
+				- Not-recently purchased: 3x pawn value
+			- Unlisted common shares – book value based on latest AFS
+			- Preference shares: Par value
+	- Inclusions in Gross Es
 
 
 ### Appendix
