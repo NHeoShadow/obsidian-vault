@@ -49,10 +49,15 @@ ReSA-subj: AFAR
 				- Administrative expenses → office supplies, rent of office, & depreciation of non-manufacturing equipment
 	- Cost Accumulation Procedures
 		- Job Order Costing
+			- Uses products that are manufactured *within* a department, or cost centre that are **heterogeneous** or **dissimilar**.
+			- These products are manufactured *individually* or in *distinct lots* or batches; each job requires different amounts of materials, labour, and overhead.
+			- Accumulates costs applicable to each specified job order or lot of similar goods manufactured on a specific order for stock or for a customer.
+			- Job is assigned a nu
 		- Process Costing
 		- Hybrid/Operation Costing (or Blended Method)
 			- Uses job order and process costing at the same time
 		- Backflush Costing
+			- Complements Just-in-Time (JIT)
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
