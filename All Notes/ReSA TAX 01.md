@@ -133,7 +133,13 @@ ReSA-subj: TAX
 			- Withdrawal is made within one year from death of decedent
 			- Bank shall require the presentation of BIR Form No. 914 (???)
 		- ![[Pasted image 20240425191658.png]]
-		- 
+	- Married Individuals
+		- Include:
+			- Common Properties (in full)
+			- Exclusive properties of decedent
+		- Exclude: exclusive properties of surviving spouse
+	- Property Regimes
+		- The property relations between husband and wife shall be gov…
 
 
 ### Appendix
