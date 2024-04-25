@@ -128,7 +128,12 @@ ReSA-subj: TAX
 		- ![[Pasted image 20240425191340.png]]
 	- Bank Deposits
 		- Before TRAIN law: no withdrawals
-		- Now: able,
+		- Now: able, provided, that a 6% final withholding tax is deducted.
+		- Conditions:
+			- Withdrawal is made within one year from death of decedent
+			- Bank shall require the presentation of BIR Form No. 914 (???)
+		- ![[Pasted image 20240425191658.png]]
+		- 
 
 
 ### Appendix
