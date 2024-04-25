@@ -65,6 +65,9 @@ ReSA-subj: AFAR
 			- However, the problem is that the expenses incurred in FOH are often delayed, or its actual expenses cannot be reasonably provided in time. Hence, the normal costing system was developed.
 			- [ ] Further research: why was the *normal costing system* developed
 		- Normal Costing System → DM and DL are recorded in actual amount. FOH is in applied amount.
+	- Inventory Account Components
+		- ![[Pasted image 20240425085613.png]]
+	- 
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
