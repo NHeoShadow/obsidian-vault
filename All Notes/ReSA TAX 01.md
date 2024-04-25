@@ -106,7 +106,10 @@ ReSA-subj: TAX
 				- Proceeds of Life Insurance (NIRC, Section 85(E))
 					- See Table 3
 					- Presumption under Insurance Code
-						- The insured shall have the right to change the beneficiary he designated in the policy, unless he has expressly waived this right in said policy. Notwithstanding the foregoing, in the event the insured does not change the beneficiary during his lifetime, the designation sh
+						- The insured shall have the right to change the beneficiary he designated in the policy, unless he has expressly waived this right in said policy. Notwithstanding the foregoing, in the event the insured does not change the beneficiary during his lifetime, the designation shall be deemed irrevocable.
+						- If the problem is silent, then deemed irrevocable
+				- Transfers in contemplation of death (NIRC, Section 85(B))
+				- Conditional Transfers (See Table 4)
 
 
 ### Appendix
@@ -135,6 +138,14 @@ Table 3: Beneficiary of Proceeds of Life Insurance
 | Third Person                       | Yes       | EXCLUDED    |
 | Executor, administrator, or estate | Yes       | Yes         |
 
+Conditional Tranfers
+
+| Status        | When?              | Inclusion?                  |
+| ------------- | ------------------ | --------------------------- |
+| Fulfilled     | Before death       | No (Subject to Donor’s Tax) |
+| Fulfilled     | **At**/after death | Yes                         |
+| Not fulfilled |                    | Yes                         |
+| Waived        | Before death       | No                          |
 
 ### File References
 [[TAX01 - Estate Tax.pdf]]
