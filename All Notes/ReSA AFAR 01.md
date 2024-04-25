@@ -87,8 +87,12 @@ ReSA-subj: AFAR
 								- WIP
 								- FG
 								- CGS
-								- Use the r
-			- 
+								- Use ratio
+						- Breakdown of Overhead Variance
+							- Spending Variance
+							- Capacity Variance
+						- ![[Pasted image 20240425091501.png]]
+						- ==(TRANSFER SOME ITEMS TO JOB ORDER COSTING)==
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
