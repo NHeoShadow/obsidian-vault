@@ -118,7 +118,6 @@ ReSA-subj: AFAR
 			- If fault of our own, charged to FOH
 			- ![[Pasted image 20240425104319.png]]
 - AFAR 02: Process Costing
-<<<<<<< HEAD
 	- Definition of Process Costing
 		- This method is used when products are manufactured under the condition of continuous processing or mass production methods where the products manufactured within a department (cost centre) are *homogeneous* (or similar products) with equal amounts of materials, labour, and overhead applied to such products.
 		- These conditions often exist in industries that produce homogeneous products or commodities such as paper, lumber, pipe petroleum, textiles, steel, wire, bricks, cement, flour, sugar, peanut butter, meat, sugar, cereals, linoleum, leather, nylon, tires and tubes, glass, mining, and canneries
@@ -131,9 +130,7 @@ ReSA-subj: AFAR
 			- The number of units still in work in process at the end of the month; and
 			- The percentage of completion of the units still in process at the end of the month.
 		- Cost of Production Report
-=======
->>>>>>> origin/master
-	- 
+		- 
 
 ### Appendix
 Table 1. Cost Accumulation System
