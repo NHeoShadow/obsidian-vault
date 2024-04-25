@@ -140,6 +140,8 @@ ReSA-subj: TAX
 		- Exclude: exclusive properties of surviving spouse
 	- Property Regimes
 		- The property relations between husband and wife shall be gov…
+	- Family Code: EO 209 s. 1987
+	- 
 
 
 ### Appendix
