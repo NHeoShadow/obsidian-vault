@@ -130,6 +130,7 @@ ReSA-subj: AFAR
 			- The number of units still in work in process at the end of the month; and
 			- The percentage of completion of the units still in process at the end of the month.
 		- Cost of Production Report
+		- ![[Pasted image 20240425113601.png]]
 		- 
 
 ### Appendix
