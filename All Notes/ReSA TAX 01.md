@@ -122,7 +122,13 @@ ReSA-subj: TAX
 			- ![[Pasted image 20240425190829.png]]
 		- The transmission or delivery of the inheritance or legacy by the fiduciary…
 			- ![[Pasted image 20240425191031.png]]
-		- The transmission from the first heir, legatee, or donee in favour of another bene
+		- The transmission from the first heir, legatee, or donee in favour of another beneficiary, in accordance with the desire of the predecessor (Section 87(C), NIRC)
+			- ![[Pasted image 20240425191215.png]]
+		- ![[Pasted image 20240425191309.png]]
+		- ![[Pasted image 20240425191340.png]]
+	- Bank Deposits
+		- Before TRAIN law: no withdrawals
+		- Now: able,
 
 
 ### Appendix
