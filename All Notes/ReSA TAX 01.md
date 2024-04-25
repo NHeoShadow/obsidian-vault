@@ -32,7 +32,20 @@ ReSA-subj: TAX
 			- Legatees succeed by particular title on personal properties
 				- There are personal properties involved
 			- Devisees succeed on real properties
-			- 
+	- Three Kinds of Succession
+		- Intestate succession - walang iniwan na Last Will; operation of law dictates
+		- Testamentary or Testate Succession - may iniwan na Last Will
+		- Mixed Succession
+	- Settlement (or process) of Estate
+		- Probate of Will → Last Will is presented before the lower courts to verify the authenticity of the last will
+		- Appointment of Administrator or confirmation of executor
+			- Administrator takes care of the properties of the Decedent
+		- Determination of Heirs, Legatees, and Devisees
+		- Collation of estate of the decedent
+		- Settlement of claims of creditors
+		- If may matira: partition and distribution of the estate
+	- Characteristics of Estate Tax
+		- National Tax → imposed by the National Gov
 
 ### File References
 [[TAX01 - Estate Tax.pdf]]
