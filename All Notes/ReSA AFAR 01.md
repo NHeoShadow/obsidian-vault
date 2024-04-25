@@ -61,8 +61,10 @@ ReSA-subj: AFAR
 		- Backflush Costing
 			- Complements Just-in-Time (JIT)
 	- Cost Accumulation System (see Table 1 below)
-		- Actual Costing System → DM, DL, and FOH are recorded in actual amount
-		- Normal Costing System → DM and DL are recor
+		- Actual Costing System → DM, DL, and FOH are recorded in actual amount.
+			- However, the problem is that the expenses incurred in FOH are often delayed, or its actual expenses cannot be reasonably provided in time. Hence, the normal costing system was developed.
+			- [ ] Further research: why was the *normal costing system* developed
+		- Normal Costing System → DM and DL are recorded in actual amount. FOH is in applied amount.
 - AFAR 01: Job Order Costing
 	- 
 - AFAR 02: Process Costing
