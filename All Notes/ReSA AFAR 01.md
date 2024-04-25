@@ -112,7 +112,9 @@ ReSA-subj: AFAR
 				- Charged to Particular Job - due to exacting specifications or customer-imposed standards
 				- Charged to All Production / Factory Overhead - due to internal failure brought about by an employee error or worn-out machinery.
 			- ![[Pasted image 20240425102709.png]]
-			- 
+		- Defective Goods
+			- The process of correcting defective units in order to bring them into sale-able condition. Additional rework costs will be incurred. Reworked units are still part of good units.
+			- Rework may either be
 - AFAR 02: Process Costing
 	- …
 
