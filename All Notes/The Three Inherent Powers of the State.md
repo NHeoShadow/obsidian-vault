@@ -1,3 +1,5 @@
+*Not to be confused with [[The Three Branches of the Philippine National Government]]*
+
 The three inherent powers of the State refers to the powers granted to the state regardless if it is expressly stated in its charter/constitution or not. These powers, being inherent to the State, is given to the State as soon as it is established.
 
 There are three inherent powers of the State, namely:
