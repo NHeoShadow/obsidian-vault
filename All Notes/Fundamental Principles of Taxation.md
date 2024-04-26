@@ -19,9 +19,17 @@ There are three aspects to taxation, namely:
 
 > [!question] National and Local Taxation – Who imposes tax?
 > The Congress is responsible for the levying of tax at the national level, while the Sanggunian (or Legislative Board) of the respective local government units is responsible for the levying of tax at the local level.
+> .
+> Note that the power of local governments to tax shall be
 
-> [!tip]- Where Legislative Bills for tax may originate in the Congress
+> [!tip]- Revenue Bills in the Philippine Congress
+> All Legislative Bills for appropriation, revenue or tariff bills, bills authorizing an increase of the public debt, bills of local application, and private bills shall originate exclusively in the House of Representatives, but the Senate may propose or concur with amendments.
 > 
+> In simple terms, only the House of Representatives may introduce a Bill containing a subject matter for the levying of tax. However, the Senate may introduce a version of its own; *Provided*, that a House Bill containing the same subject matter was already sent to the Senate (i.e., already approved by the House of Representatives). 
+> 
+> Actually, the Senate may introduce Bills containing the subject matter for the levying of tax merely as a *substitute Bill*, but it may not introduce a Bill on its own without a House Bill of equivalent subject matter being sent to the Senate for their perusal.
+> 
+> Read: [[How laws are created]]
 
 > [!note]- Executory Function
 > Note that in executing laws, all issuances, rules and regulations promulgated by the appropriate agencies of the Philippine Government **shall** conform to the provisions of such law. Any deviations from it shall be held illegal or invalid.
@@ -50,6 +58,9 @@ Also view: [NIRC (RA8424), as Amended](https://www.bir.gov.ph/index.php/tax-code
 
 > [!note] Tax Set-off
 > Note that taxes cannot be the subject of compensation or set-off between the taxpayer and the Philippine Government for they are not mutual debtors-creditors of a contract, except if both the claims of the government and the taxpayer against each other have already become due, demandable, and fully liquidated.
+
+> [!note]- On Ambiguity
+> No person or property is subject to taxation unless within the terms or plain import of a taxing statute. In every case of doubt, tax statutes are construed strictly against the government and liberally in favour of the taxpayer —Davao Gulf Lumber Corporation v. Commissioner of Internal Revenue, et al., 293 SCRA 76, 88
 ### Purpose of Taxation
 The primary purposes of taxation on the part of the government is to **provide fund or property** with which to **promote the general welfare and the protection of its citizens** and to enable it to finance its multifarious activities.
 
@@ -66,6 +77,9 @@ The **Lifeblood Doctrine**, which presupposes that the government cannot exist n
 > It is a power emanating from necessity. It is a necessary burden to preserve the state’s sovereignty and a means to give the citizenry an army to resist an aggression, a navy to defend its shores from invasion, a corps of civil servants to serve, public improvements designed for the enjoyment of the citizenry and those which come within the state’s territory, and facilities and protection which a government is supposed to provide. (Phil. Guarantee Co., Inc. vs. CIR, 13 SCRA 775)
 
 The **Benefits Received Theory**, also known as the *Reciprocity Theory*, which provides for a basis for collection of taxes so that it can provide services essential for the upkeep of the nation with its citizens. Taxes are what we pay for a civilized society (read: Commissioner v. Algue). This theory also spawned the *Doctrine of Symbiotic Relationship*.
+
+### Avoiding or Minimizing the Burden of Taxation
+
 
 #### Working Drafts
 - [[Fundamental Principles of Taxation WD]]
