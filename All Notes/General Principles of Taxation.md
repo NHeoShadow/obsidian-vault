@@ -34,17 +34,12 @@ The primary purposes of taxation on the part of the government is to **provide f
 
 Taxation is also employed as a devise for regulation or control by means of which certain effects or conditions envisioned by the government may be achieved such as the promotion of general welfare, the reduction of social inequality, and economic growth.
 ### Theory and Basis of Taxation
-There are two theories on why taxation is levied and collected by the government:
-- The **Lifeblood Doctrine**, which presupposes that the government cannot exist nor endure without tax. Consequently, the state has the right to compel all its citizens and property within its limits to contribute.
-- The **Necessity Theory**, which states that tax is a power emanating from necessity of the people.
+The **Lifeblood Doctrine**, which presupposes that the government cannot exist nor endure without tax. Consequently, the state has the right to compel all its citizens and property within its limits to contribute. Also, the **Necessity Theory** which states that tax is a power emanating from necessity of the people.
 
-> [!quote] On Necessity Theory…
+> [!quote]- On Necessity Theory…
 > It is a power emanating from necessity. It is a necessary burden to preserve the state’s sovereignty and a means to give the citizenry an army to resist an aggression, a navy to defend its shores from invasion, a corps of civil servants to serve, public improvements designed for the enjoyment of the citizenry and those which come within the state’s territory, and facilities and protection which a government is supposed to provide. (Phil. Guarantee Co., Inc. vs. CIR, 13 SCRA 775)
 
-Meanwhile, the following are the basis of taxation or the rationale why taxation is imposed:
-- The **Benefits Received**, also known as the *Reciprocity Theory*, which states that the state collects taxes so that it can provide services essential for the upkeep of the nation with its citizens. Taxes are what we pay for a civilized society (i.e., the Doctrine of Sym
-- 
-
+The **Benefits Received Theory**, also known as the *Reciprocity Theory*, which provides for a basis for collection of taxes so that it can provide services essential for the upkeep of the nation with its citizens. Taxes are what we pay for a civilized society (read: Commissioner v. Algue). This theory also spawned the *Doctrine of Symbiotic Relationship*.
 
 - [[Fundamental Principles of Taxation WD]]
 - [[Characteristics of Tax and the Nature of the State's Power to Tax]]
