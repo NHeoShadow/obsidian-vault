@@ -20,6 +20,9 @@ There are three aspects to taxation, namely:
 > [!question] National and Local Taxation – Who imposes tax?
 > The Congress is responsible for the levying of tax at the national level, while the Sanggunian (or Legislative Board) of the respective local government units is responsible for the levying of tax at the local level.
 
+> [!tip]- Where Legislative Bills for tax may originate in the Congress
+> 
+
 > [!note]- Executory Function
 > Note that in executing laws, all issuances, rules and regulations promulgated by the appropriate agencies of the Philippine Government **shall** conform to the provisions of such law. Any deviations from it shall be held illegal or invalid.
 
@@ -36,10 +39,14 @@ Also view: [NIRC (RA8424), as Amended](https://www.bir.gov.ph/index.php/tax-code
 > [!note]- Judicial vs Juridical
 > Judicial oftentimes refer to the legal system and [[The Three Branches of the Philippine National Government#Judiciary Department|The Supreme Court of the Philippines]], while juridical entails aspects of anything related to law or legal systems.
 
-> [!note] Tax Rates
+> [!danger]- On Tax Rates
 > The rule of taxation shall be uniform and equitable. The Congress shall evolve a progressive system of taxation. —Article VI Section 28, 1987 Philippine Constitution
-> .
-> Note that the 1987 Philip
+> 
+> Proportional tax uses fix percentage of amount of the property, receipts, or other basis to be taxed, while progressive or graduated tax increases as the tax base or bracket increases. The opposite of a progressive tax system is a regressive one, wherein the tax rate decreases as the tax bracket increases.
+>
+> Note that the 1987 Philippine Constitution mandates only the Congress to evolve a progressive system of taxation, but does not prohibit other types of taxation. Meaning, if the Congress deemed it so, ==it **can** levy a regressive type of taxation in the tax code==.
+> 
+> See: [G.R. No. 236118, ACT Teachers v. Duterte, January 24, 2023](https://sc.judiciary.gov.ph/236118-236295-act-teachers-rep-antonio-tinio-bayan-muna-rep-party-list-rep-carlos-isagani-zarate-and-anakpawis-rep-party-list-ariel-ka-ayik-casilao-vs-president-rodrigo-roa-duterte-house-of/).
 
 > [!note] Tax Set-off
 > Note that taxes cannot be the subject of compensation or set-off between the taxpayer and the Philippine Government for they are not mutual debtors-creditors of a contract, except if both the claims of the government and the taxpayer against each other have already become due, demandable, and fully liquidated.
