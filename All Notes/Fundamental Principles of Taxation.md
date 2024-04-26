@@ -1,1 +1,32 @@
-- 
+- Definition, Aspects, and Purposes
+	- Definition
+		- Taxation is the process or means by which the sovereign, through its law making body, imposes burdens upon subjects and objects within its jurisdiction for the purpose of raising revenues to carry out the legitimate objects of government.
+			- In the Philippines, the Congress is the legislature organ of the country as created by the 1987 Philippine Constitution. It is composed of the Senate and the House of Representatives.
+			- Subjects and objects of taxation
+				- Persons, either natural (individuals) or juridical (created by operation of law)
+				- Properties
+				- Privileges or Rights
+				- Transactions or Interests
+		- In simple terms, it is the act of levying a tax to apportion the cost of government among those who, in some measure, are privileged to enjoy its benefits and must therefore bear its burdens.
+			- The National Internal Revenue Code of 1997 (RA 8424) is the basis for taxation law. Subsequent amendments were made in the NIRC based on the following Republic Acts:
+				- RA 10963 (TRAIN Law)
+				- RA 11256
+				- RA 11346
+				- RA 11467
+				- RA 11534
+			- 
+	- Aspects
+		- Process of tax is as follow:
+			- Levying (or Imposition of Tax, or Enactment of Tax Law)
+				- Through the Congress, this is a Legislative Function
+			- Assessment
+				- Executive Function
+			- Collection
+			- Executive - executes law
+			- Legislative - creates law
+			- Judiciary - settles disputes
+				- Supreme Court - Highest Judiciary
+				- Court of Tax Appeals - 
+	- Purposes
+- Theory and Basis of Taxation
+- Inherent Powers of the State
