@@ -1,0 +1,43 @@
+
+### Videos
+- [[General Principles of Taxation]]
+- [[Income Tax on Individuals]]
+- [[Income Tax on Corporations]]
+- [[Transfer Tax]]
+- [[Business Tax]]
+- [[Value-Added Tax]]
+- [[Percentage Taxes]]
+
+
+### Income Taxation
+- [[Fundamental Principles of Taxation]]
+- [[Individual Taxpayers]]
+- [[Fringe Benefit Tax and De Minimis Benefits]]
+- [[Co-Ownership Estates and Trusts]]
+- [[Corporate Taxpayers]]
+- [[Partnership Taxation]]
+- [[Gross Income Taxation]]
+- [[Inclusions and Exclusions from Gross Income]]
+- [[Dealings in Properties]]
+- [[Deductions from Gross Income]]
+- [[Instalment Reporting of Income and Instalment Payment of Capital Gains Tax]]
+- [[Foreign Income Tax Credit and Optional Standard Deductions]]
+- [[Accounting Periods and Methods (TAX)]]
+- [[Tax Remedies]]
+- [[Tax Incentives under Title XIII of the Tax Code, as amended under CREATE Law]]
+- [[Barangay Micro Business Enterprise (BMBE)]]
+
+### Business Taxation
+- [[Succession and Transfer Taxes]]
+- [[Gross Estate]]
+- [[Deductions from the Gross Estate]]
+- [[Property Relations]]
+- [[Estate Tax Credit and Net Distributable Estate]]
+- [[Donor's Tax]]
+- [[Business Taxes]]
+- [[Value Added Tax]]
+- [[Other Percentage Taxes]]
+- [[Tax Remedies (Business Taxes]]
+- [[Documentary Stamp Tax (DST)]]
+- [[Local Taxation]]
+- [[Tax Incentives (Business Taxation)]]
