@@ -19,8 +19,10 @@ There are three aspects to taxation, namely:
 
 > [!question] National and Local Taxation – Who imposes tax?
 > The Congress is responsible for the levying of tax at the national level, while the Sanggunian (or Legislative Board) of the respective local government units is responsible for the levying of tax at the local level.
-> .
-> Note that the power of local governments to tax shall be
+> 
+> Note that the power of local governments to tax shall be provided by the Congress. Article X Section 5 of the 1987 Constitution thus read:
+> 
+> Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees, and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees, and charges shall accrue exclusively to the local governments.
 
 > [!tip]- Revenue Bills in the Philippine Congress
 > All Legislative Bills for appropriation, revenue or tariff bills, bills authorizing an increase of the public debt, bills of local application, and private bills shall originate exclusively in the House of Representatives, but the Senate may propose or concur with amendments.
@@ -79,7 +81,15 @@ The **Lifeblood Doctrine**, which presupposes that the government cannot exist n
 The **Benefits Received Theory**, also known as the *Reciprocity Theory*, which provides for a basis for collection of taxes so that it can provide services essential for the upkeep of the nation with its citizens. Taxes are what we pay for a civilized society (read: Commissioner v. Algue). This theory also spawned the *Doctrine of Symbiotic Relationship*.
 
 ### Avoiding or Minimizing the Burden of Taxation
+==**(endpoint: p34)**==
 
+- Shifting
+- Transformation
+- Evasion
+- Tax Avoidance
+- Tax Exemption
+- Tax Amnesty
+- Tax Capitalization
 
 #### Working Drafts
 - [[Fundamental Principles of Taxation WD]]
