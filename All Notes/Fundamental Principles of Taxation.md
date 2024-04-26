@@ -48,8 +48,17 @@
 					- Progressive Taxation Scheme; the richer you are, the higher your taxes are
 				- Economic Growth
 					- Taxes imposed in Philippine Exclusive Economic Zones (PEZZ) are lower to promote economic growth.
-- Inherent Powers of the State
-	- Power to Tax
-	- Power to Eminent Domain
-	- Police Power
+- The 3 Inherent Powers of the State
+	- Refers to the power of the state that is inherent in a state regardless if such provision is given in the Constitution and its laws or not.
+	- Basically, these powers are essential/fundamental as soon as a state is established.
+	- **Power to tax** → power by which the state raises revenue to defray the necessary expenses of the government.
+	- **Police power** → power of the state for promoting public welfare by restraining and promulgating the use of liberty and property.
+	- **Power of eminent domain** → power of the State to acquire private property for public purpose upon payment of just compensation.
+	- Similar characteristics of the three inherent powers:
+		- They are inherent in the state
+		- They exist independently of the Constitution although the conditions for their exercise may be prescribed by the Constitution. 
+		- Ways by which the State interfere with private rights and proeprty
+		- Legislative in nature and character
+		- Presuppose an equivalent compensation received, directly or indirectly, by the persons affected
+		- 
 - Theory and Basis of Taxation
