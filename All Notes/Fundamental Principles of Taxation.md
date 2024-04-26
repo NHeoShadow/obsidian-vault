@@ -42,7 +42,14 @@
 			- Taxation is often employed as a devise for regulation or control (i.e., implementation of State’s police power) by means of which certain effects or conditions envisioned by the government may be achieved such as:
 				- Promotion of General Welfare
 					- ex.: sin tax law
+					- “The power to tax involves the power to destroy”
+						- [McCulloch v Maryland (1819)](https://www.archives.gov/milestone-documents/mcculloch-v-maryland)
 				- Reduction of Social Inequality
+					- Progressive Taxation Scheme; the richer you are, the higher your taxes are
 				- Economic Growth
-- Theory and Basis of Taxation
+					- Taxes imposed in Philippine Exclusive Economic Zones (PEZZ) are lower to promote economic growth.
 - Inherent Powers of the State
+	- Power to Tax
+	- Power to Eminent Domain
+	- Police Power
+- Theory and Basis of Taxation
