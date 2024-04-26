@@ -1,4 +1,4 @@
-- [[Fundamental Principles of Taxation]]
+- [[Fundamental Principles of Taxation WD]]
 - [[Characteristics of Tax and the Nature of the State's Power to Tax]]
 - [[Constitutional Limitations]]
 - [[Inherent Limitations on the State's Power to Tax]]
