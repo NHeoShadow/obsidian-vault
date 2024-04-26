@@ -60,5 +60,5 @@
 		- Ways by which the State interfere with private rights and proeprty
 		- Legislative in nature and character
 		- Presuppose an equivalent compensation received, directly or indirectly, by the persons affected
-		- 14:43 endpoint
+		- **14:43 endpoint**
 - Theory and Basis of Taxation
