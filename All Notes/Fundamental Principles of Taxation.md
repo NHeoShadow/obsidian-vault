@@ -25,8 +25,11 @@ The tax code responsible for the levying of taxes at the national level is the N
 
 Also view: [NIRC (RA8424), as Amended](https://www.bir.gov.ph/index.php/tax-code.html)
 
-> [!note] Judicial vs Juridical
+> [!note]- Judicial vs Juridical
 > Judicial oftentimes refer to the legal system and [[The Three Branches of the Philippine National Government#Judiciary Department|The Supreme Court of the Philippines]], while juridical entails aspects of anything related to law or legal systems.
+
+> [!note] Tax Set-off
+> Note that taxes cannot be the subject of compensation or set-off between the taxpayer and the Philippine Government for they are not mutual debtors-creditors of a contract, except if both the claims of the government and the taxpayer against each other have already become due, demandable, and fully liquidated.
 ### Purpose of Taxation
 The primary purposes of taxation on the part of the government is to **provide fund or property** with which to **promote the general welfare and the protection of its citizens** and to enable it to finance its multifarious activities.
 
@@ -36,12 +39,13 @@ Taxation is also employed as a devise for regulation or control by means of whic
 ### Theory and Basis of Taxation
 The **Lifeblood Doctrine**, which presupposes that the government cannot exist nor endure without tax. Consequently, the state has the right to compel all its citizens and property within its limits to contribute. Also, the **Necessity Theory** which states that tax is a power emanating from necessity of the people.
 
+> [!note]- On Lifeblood Doctrine…
+> Taxes are the lifeblood of the government. Thus, it should be collected without unnecessary delay. Its collection, however, should not be tainted with arbitrariness.
+
 > [!quote]- On Necessity Theory…
 > It is a power emanating from necessity. It is a necessary burden to preserve the state’s sovereignty and a means to give the citizenry an army to resist an aggression, a navy to defend its shores from invasion, a corps of civil servants to serve, public improvements designed for the enjoyment of the citizenry and those which come within the state’s territory, and facilities and protection which a government is supposed to provide. (Phil. Guarantee Co., Inc. vs. CIR, 13 SCRA 775)
 
 The **Benefits Received Theory**, also known as the *Reciprocity Theory*, which provides for a basis for collection of taxes so that it can provide services essential for the upkeep of the nation with its citizens. Taxes are what we pay for a civilized society (read: Commissioner v. Algue). This theory also spawned the *Doctrine of Symbiotic Relationship*.
 
+#### Working Drafts
 - [[Fundamental Principles of Taxation WD]]
-- [[Characteristics of Tax and the Nature of the State's Power to Tax]]
-- [[Constitutional Limitations]]
-- [[Inherent Limitations on the State's Power to Tax]]

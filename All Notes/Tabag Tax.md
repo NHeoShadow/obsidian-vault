@@ -1,6 +1,6 @@
 
 ### Videos
-- [[General Principles of Taxation]]
+- [[Fundamental Principles of Taxation]]
 - [[Income Tax on Individuals]]
 - [[Income Tax on Corporations]]
 - [[Transfer Tax]]
@@ -10,7 +10,7 @@
 
 
 ### Income Taxation
-- [[Fundamental Principles of Taxation WD]]
+- [[Fundamental Principles of Taxation]]
 - [[Individual Taxpayers]]
 - [[Fringe Benefit Tax and De Minimis Benefits]]
 - [[Co-Ownership Estates and Trusts]]
