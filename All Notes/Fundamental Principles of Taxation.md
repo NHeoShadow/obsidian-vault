@@ -18,15 +18,31 @@
 	- Aspects
 		- Process of tax is as follow:
 			- Levying (or Imposition of Tax, or Enactment of Tax Law)
-				- Through the Congress, this is a Legislative Function
+				- Through the Congress, this is a ==Legislative Function==, especially on the enactment of national tax
+				- For local tax, the legislative organ (i.e., mga Sanggunian) of the local government units is responsible in the imposition of tax
 			- Assessment
 				- Executive Function
-			- Collection
-			- Executive - executes law
-			- Legislative - creates law
-			- Judiciary - settles disputes
-				- Supreme Court - Highest Judiciary
-				- Court of Tax Appeals - 
+				- Determines the correct amount of tax due based on existing laws
+				- National Government: Bureau of Internal Revenue and Bureau of Customs
+				- Local Government: City Treasurers, Provincial Treasurers, Barangay Treasurers
+			- Collection (Executive Function as well)
+				- Bureau of Internal Revenue
+			- Other Note: Functions of Three Branches:
+				- Executive - executes law
+				- Legislative - creates law
+				- Judiciary - settles disputes
+					- Supreme Court - Highest Judiciary
+					- Court of Tax Appeals - special court
+					- Note: Civil Code, Jurisprudence
+			- The power of the government to exercise taxation is exercised both the legislative and executive organs of the Philippine government.
 	- Purposes
+		- Primary purpose: revenue/fiscal
+			- The primary purpose of taxation on the part of the government is to provide funds or property with which to promote the general welfare and the protection of its citizens and to enable it to finance its multifarious activities.
+		- Secondary Purpose: regulatory (sumptuary/compensatory)
+			- Taxation is often employed as a devise for regulation or control (i.e., implementation of State’s police power) by means of which certain effects or conditions envisioned by the government may be achieved such as:
+				- Promotion of General Welfare
+					- ex.: sin tax law
+				- Reduction of Social Inequality
+				- Economic Growth
 - Theory and Basis of Taxation
 - Inherent Powers of the State
