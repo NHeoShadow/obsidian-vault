@@ -1,4 +1,4 @@
-In the Philippine National Government, especially to that created by virtue of The [1987 Philippine Constitution](https://www.officialgazette.gov.ph/constitutions/1987-constitution/), there are three Branches of the Philippine National Government, namely the Executive Department, the Legislative Department, and the Judiciary Department.
+In the Philippine National Government, especially to that created by virtue of The [1987 Philippine Constitution](https://www.officialgazette.gov.ph/constitutions/1987-constitution/), there are three **co-equal** Branches of the Philippine National Government, namely the Executive Department, the Legislative Department, and the Judiciary Department.
 
 ### Executive Department
 The Executive Department is responsible for the execution of all laws created by the Congress. In the 1987 Philippine Constitution, the President is the Head of the Executive Department.
@@ -8,6 +8,8 @@ The Executive Department is also composed of the Cabinet of the Philippines, or 
 The Vice President acts as a *spare tire* in case of resignation or removal of the President. However, the Vice President may also conduct its own operations for they are vested with their own office.
 
 Certain positions within the Executive Department require the confirmation of the [[Commission on Appointments]], a constitutional body vested with confirmatory power for all nominations which shall be made by the President prior to their appointment.
+
+The President exercises general supervision over the [[Local Government Units]].
 
 ### Legislative Department
 The Legislative Department is responsible for the creation of pieces of legislation for the Government of the Philippines. It is composed of two House of Congress, namely the Senate and the House of Representatives.
@@ -32,6 +34,6 @@ The Court of Appeals acts as an appellate court of the Judiciary Department. The
 
 Note that there is a different court for the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), oftentimes called the Sharia Courts.
 
-> Judicial decisions applying or interpreting the laws or the Constitution shall form part of the legal system of the Philippines. —Chapter 1 Article 8 of the Civil Code of the Philippines.
+> Judicial decisions applying or interpreting the laws or the Constitution shall form part of the legal system of the Philippines. —Article 8 of RA386
 
-
+Also read: [[Constitutional Commissions]]
