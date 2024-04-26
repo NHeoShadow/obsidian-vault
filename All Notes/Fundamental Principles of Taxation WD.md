@@ -64,16 +64,22 @@
 		- The power to tax is the most supreme among the three inherent powers of a state because tax is the lifeblood of a state. Without tax, a government cannot exist.
 		- There is no limit to the amount of tax to be levied against persons. (But still, subject to the NIRC and local taxation laws; still limited to the capabilities of the taxpayer.)
 - Theory and Basis of Taxation
-	- Lifeblood Doctrine
-		- Without taxes, the government would be paralyzed for lack of the motive power to activate and operate it.
-		- Justification for imposition of tax
-			- The government, for its part, is expected to respond in the form of tangible and intangible benefits intended to improve the lives of the people and enhance their moral and material values (Commissioner vs Algue)
-		- The power of taxation is essential because the government can neither exist nor endure without taxation.
-		- Taxes are the lifeblood of the government and their prompt and certain availability is an imperious need.
-		- The government cannot continue to perform its basic functions of serving and protecting its people without means to pay its expenses.
-		- ==Consequently, the state has the right to compel all its citizens and property within its limits to contribute.==
-		- Tax is an **enforced contribution**.
-	- Necessity Theory
+	- Theory of Taxation (Why?)
+		- Lifeblood Doctrine
+			- Without taxes, the government would be paralyzed for lack of the motive power to activate and operate it.
+			- Justification for imposition of tax
+				- The government, for its part, is expected to respond in the form of tangible and intangible benefits intended to improve the lives of the people and enhance their moral and material values (Commissioner vs Algue)
+			- The power of taxation is essential because the government can neither exist nor endure without taxation.
+			- Taxes are the lifeblood of the government and their prompt and certain availability is an imperious need.
+			- The government cannot continue to perform its basic functions of serving and protecting its people without means to pay its expenses.
+			- ==Consequently, the state has the right to compel all its citizens and property within its limits to contribute.==
+			- Tax is an **enforced contribution**.
+		- Necessity Theory
+			- It is a power emanating from necessity. It is a necessary burden to preserve the state’s sovereignty and a means to give the citizenry an army to resist an aggression, a navy to defend its shores from invasion, a corps of civil servants to serve, public improvements designed for the enjoyment of the citizenry and those which come within the state’s territory, and facilities and protection which a government is supposed to provide. (Phil. Guarantee Co., Inc. vs. CIR, 13 SCRA 775)
+	- Basis of Taxation (Rationale)
+		- Benefits Received or Reciprocity Theory
+			- The basis is the reciprocal duties of protection and support between the state and its inhabitants. The state collects taxes from the subjects of taxation in order that it may be able to perform the functions of government. The citizens, on the other hand, pay taxes in order that they may be secured in the enjoyment of the benefits of organised society. This theory spawned the *Doctrine of Symbiotic Relationship* which means, taxes are what we pay for a civilized society (Commissioner v. Algue).
+			- 
 
 #### Distinction of the 3 inherent powers
 
