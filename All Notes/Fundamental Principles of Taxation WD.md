@@ -57,8 +57,22 @@
 	- Similar characteristics of the three inherent powers:
 		- They are inherent in the state
 		- They exist independently of the Constitution although the conditions for their exercise may be prescribed by the Constitution. 
-		- Ways by which the State interfere with private rights and proeprty
+		- Ways by which the State interfere with private rights and property
 		- Legislative in nature and character
 		- Presuppose an equivalent compensation received, directly or indirectly, by the persons affected
-		- **14:43 endpoint**
+	- Distinction of the three (3) inherent powers (see Table 1)
+		- The power to tax is the most supreme among the three inherent powers of a state because tax is the lifeblood of a state. Without tax, a government cannot exist.
 - Theory and Basis of Taxation
+
+#### Distinction of the 3 inherent powers
+
+|                   | Taxation                                                                                                       | Police Power                                                                                                               | Eminent Domain                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Nature            | Power to enforce contributions to raise government funds                                                       | Power to make and implement laws for the general welfare                                                                   | Power to take private property for public use with just compensation                              |
+| Authority         | Government only                                                                                                | Government only                                                                                                            | May be granted to **public** service/utility companies                                            |
+| Purpose           | For the support of the government                                                                              | Promotion of general welfare through regulation                                                                            | The taking of private property for public use                                                     |
+| Persons affected  | Community or a class of individuals. Applies to all persons, property and excises that may be subject thereto. | Community or a class of individuals. Applies to all persons, property, and excises that may be subject thereto.            | On an individual as the owner of personal property. Only the particular property is comprehended. |
+| Scope             | Plenary, comprehensive, supreme                                                                                | Broader in application. General power to make and implement law.                                                           | Merely a power to take private property for public use.                                           |
+| Effect            | Contribution becomes part of public fund                                                                       | No transfer or title. There may just be restraint on the injurious use of property.                                        | There is a transfer of title to property.                                                         |
+| Benefits Received | In form of protection and benefits received from government.                                                   | No direct and immediate benefit but only such as may arise from the maintenance of a healthy economic standard of society. | Market value of property taken.                                                                   |
+|                   | No limit                                                                                                       | Sufficient to cover cost of the license and the necessary expenses of police surveillance                                  |                                                                                                   |
