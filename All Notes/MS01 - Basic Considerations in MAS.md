@@ -32,12 +32,28 @@
 		- Strategic Decisions
 			- Clarify your Vision
 				- Vision → where the company aims to position itself in the future
-				- Objectives → 
+				- Objectives → company’s business, objectvies, and approach
 			- Gather and Analyse Information
 			- Formulate a Strategy
 			- Implement your Strategy
 			- Evaluate and Control
+	- Sources of Competitive Advantage
+		- Cost Leadership → output at lowest possible costs, charged at industry-average prices
+		- Differentiation → output that differentiates itself from the competitors
+		- Focus Strategy → concentrate on niche markets
+	- Identifying and Building Resources and Capabilities
+		- Strategic Analysis
+			- Michael Porter’s Five Competitive Forces
+				- Analyses the external environment
+				- ![[image-6b224022-833c-4821-8c77-71961b998873.webp]]
+			- Boston Consulting Group (BCG) growth-share matrix
+				- ![[BCG Matrix.png]]
+		- Balance Sheet Information
+			- Current Resources → provides information about the company’s liquidity. Measures include cash adequacy and inventory management.
+			- Long-term Productive Assets → supports the company’s operating activities to sustain long-term profitability. Measures include trends, efficiency ratios, relationships with customers and suppliers, and opportunity costs.
+			- Intangible Assets → lack physical attributes but generate cash flows for the company.
 - **International Certifications in Management Accounting**
+	- 
 
 ### Appendices
 Table 1: MA vs FA
