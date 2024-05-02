@@ -8,7 +8,12 @@
 	- Product costs → inventoried when incurred, charged only when sold
 	- Period costs → treated as an outright expense the moment it is incurred
 - Inventory costs between variable and absorption costing
-	- See Table 1
+	- Treatment of Operating Costs: ==See Table 1==
+	- Net operating income and inventory levels: ==See Table 2==
+	- Cost Segregation
+		- VC → costs according to behaviour
+		- AC → costs according to function
+	- Presentation of Income Statement
 - Nature and treatment of fixed factory overhead costs
 - Reconciliation of operating income under variable and absorption costing
 
@@ -27,9 +32,20 @@ Table 1: Inventory Costs between costing methods
 
 | Costs                       | VC  | AC  | SVC | SAC |
 | --------------------------- | --- | --- | --- | --- |
-| Direct mat                  | X   | O   | O   | O   |
-| Direct labour (variable)    | X   |     | X   | O   |
-| Factory overhead (variable) | X   |     | X   | O   |
-| Factory overhead (fixed)    | O   |     | X   | O   |
-| S&A expense (variable)      | O   |     | X   | O*  |
-| S&A expense (fixed)         | O   |     | X   | O*  |
+| Direct materials            | O   | O   | O   | O   |
+| Direct labour (variable)    | O   | O   | X   | O   |
+| Factory overhead (variable) | O   | O   | X   | O   |
+| Factory overhead (fixed)    | X   | O   | X   | O   |
+| S&A expense (variable)      | X   | X   | X   | O*  |
+| S&A expense (fixed)         | X   | X   | X   | O*  |
+*Note: for Selling and Administrative Expenses, under ==SAC==, it is treated as a product cost only if such expenses adds value to the product*
+
+
+Table 2: net operating income and inventory levels
+
+| Production and Sales | Net Income | Inventories |
+| -------------------- | ---------- | ----------- |
+| P = S                | AC = VC    | BE = BB     |
+| P > S                | AC > VC    | BE > BB     |
+| P < S                | AC < VC    | BE < BB     |
+*Note: BE means Balance Ending; BB means Balance Beginning*
