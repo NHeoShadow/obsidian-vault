@@ -20,14 +20,35 @@
 				- Communications
 			- Controlling → measurement of accomplishment against standards and correction of deviation to achieve the organizational goals.
 - **Distinction between MA, FA, and Cost Accounting**
-	- See Table 1
+	- See Table 1 for MA vs FA
+	- FA vs CA
+		- Financial Information by FA → external users
+		- Cost Management → internal focus
+	- Cost Accounting satisfy costing objectives for both financial and management accounting.
+	- FA and MA both form part of the entire accounting information system
 - **Roles and Activities of Controller and Treasurer**
+	- Treasurer primarily relates to money and cash, while Controller primarily relates to accounting-related functions.
+	- Roles of the Managerial Accountant
+		- Strategic Decisions
+			- Clarify your Vision
+				- Vision → where the company aims to position itself in the future
+				- Objectives → 
+			- Gather and Analyse Information
+			- Formulate a Strategy
+			- Implement your Strategy
+			- Evaluate and Control
 - **International Certifications in Management Accounting**
 
 ### Appendices
-Table 1: MA vs FA vs Cost Accounting
+Table 1: MA vs FA
 
-
-| Item Particulars | Management Accounting | Financial Accounting | Cost Accounting |
-| ---------------- | --------------------- | -------------------- | --------------- |
-| Reports          | Internal              | External             |                 |
+| Item Particulars | Management Accounting            | Financial Accounting                           |
+| ---------------- | -------------------------------- | ---------------------------------------------- |
+| Reports          | Internal                         | External                                       |
+| Time             | Future-oriented                  | Past-oriented                                  |
+| Purpose          | Relevant                         | Objective & Verifiable                         |
+|                  | It is the product of the process | It is the process                              |
+| Accuracy         | Timeliness                       | Precise                                        |
+| Reporting        | Segments of company              | Whole company                                  |
+| Standards        | N/A                              | IFRS Standards and Audit Issuances by the AASC |
+| Required?        | Not mandatory                    | Mandatory for companies                        |
