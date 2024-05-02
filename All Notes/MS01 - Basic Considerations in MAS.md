@@ -52,6 +52,11 @@
 			- Current Resources → provides information about the company’s liquidity. Measures include cash adequacy and inventory management.
 			- Long-term Productive Assets → supports the company’s operating activities to sustain long-term profitability. Measures include trends, efficiency ratios, relationships with customers and suppliers, and opportunity costs.
 			- Intangible Assets → lack physical attributes but generate cash flows for the company.
+	- Role in Implementing Strategy
+		- Implementing Strategies
+			- Planning
+			- Controlling Feedback
+		- Supporting Managers
 - **International Certifications in Management Accounting**
 	- 
 
