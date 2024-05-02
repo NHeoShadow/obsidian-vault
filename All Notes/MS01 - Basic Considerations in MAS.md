@@ -57,7 +57,33 @@
 			- Planning
 			- Controlling Feedback
 		- Supporting Managers
-- **International Certifications in Management Accounting**
+			- Information must be relevant and timely to be useful
+		- Enhancing Value
+			- Customer focus
+			- Value-chain and supply-chain analysis
+			- Key success factors
+			- Continuous improvement and benchmarking
+- **International Certifications in Management Accounting** (pn: CICO)
+	- Bodies that offer CMA Certification
+		- Institute of Management Accountants USA
+		- Institute of Certified Management Accountants (Australia)
+		- Certified Management Accountants of Canada
+	- IMA Code of Ethics
+		- Standards:
+			- Competence
+			- Integrity
+			- Confidentiality
+			- Objectivity (or Credibility)
+		- Resolution Conflict
+			- Discuss to immediate head
+			- Clarify relevant ethical issues through confidential discussion with an IMA Ethics Counsellor
+			- Consult own attorney
+- **Global Trends in Management Accounting**
+	- Shift to predictive accounting
+	- Business analytics imbedded in Enterprise Performance Management methods
+	- Managing Information Technology and Shared Services as a Business
+	- Expansion from product to channel and customer profitability analysis
+	- C
 	- 
 
 ### Appendices
