@@ -82,8 +82,16 @@
 	- Shift to predictive accounting
 	- Business analytics imbedded in Enterprise Performance Management methods
 	- Managing Information Technology and Shared Services as a Business
+		- Information Technology Management is the process whereby all resources related to IT are managed according to an organization’s priorities and needs.
 	- Expansion from product to channel and customer profitability analysis
-	- C
+	- Co-existing and improved management accounting methods
+	- Management accounting’s expanding role with Enterprise Performance Management (EPM)
+		- 4 Main Themes of EPM:
+			- Target setting
+			- Integrated business planning
+			- Performance measurement & reporting
+			- Analytics
+	- The need for better skills and competency with behavioural change management
 	- 
 
 ### Appendices
