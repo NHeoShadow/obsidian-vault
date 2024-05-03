@@ -11,9 +11,24 @@
 	- Treatment of Operating Costs: ==See Table 1==
 	- Net operating income and inventory levels: ==See Table 2==
 	- Cost Segregation
-		- VC → costs according to behaviour
-		- AC → costs according to function
+		- VC → costs according to behaviour (internal reporting only)
+		- AC → costs according to function (external reporting)
+			- Note: income statement according to function is the same as this. However, income statement according to nature is different from income statement based on VC (or by behaviour)
 	- Presentation of Income Statement
+		- VC → contribution margin income approach
+		- AC → conventional income statement (i.e., according to function)
+			- Issues:
+				- Managers may seek to manipulate income by producing too many units
+				- Deciding to manufacture products that absorb the highest amount of fixed costs, regardless of demand
+				- Accepting an order to increase production, even through another plant in the same firm is better suited to handle that order
+				- Deferring maintenance
+			- Reduce undesirable effects:
+				- Focus on careful budgeting and inventory planning to reduce management’s freedom to build up excess inventory.
+				- Incorporate a *carrying charge* for inventory in the internal accounting system.
+				- Change the period to evaluate performance. Instead of quarterly or annual horizon, evaluate the manager over a three-to-five year period.
+				- Include nonfinancial as well as financial variables in the measures of performance evaluation.
+		- SVC → throughput contribution income statement
+		- ==ENDPOINT==
 - Nature and treatment of fixed factory overhead costs
 - Reconciliation of operating income under variable and absorption costing
 
@@ -28,7 +43,6 @@ Table 1: Inventory Costs between costing methods
 	- Cost Treatment
 		- X → period costs
 		- O → product costs
-
 
 | Costs                       | VC  | AC  | SVC | SAC |
 | --------------------------- | --- | --- | --- | --- |
