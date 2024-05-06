@@ -55,4 +55,8 @@
 			- ![[Pasted image 20240506100238.png]]
 			- ![[Pasted image 20240506100435.png]]
 			- ![[Pasted image 20240506100521.png]]
+			- ![[Pasted image 20240506100706.png]]
+				- Policitation → an *unaccepted unilateral promise* to buy or sell
+				- ![[Pasted image 20240506100923.png]]
+			- ![[Pasted image 20240506101603.png]]
 			- 
