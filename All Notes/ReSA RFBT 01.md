@@ -43,4 +43,8 @@
 			- Natural → inherent, included even if not stated
 			- Accidental → included if the parties includes as such
 			- Essential → shall always be included
-		- 
+		- *Essential Elements of a Contract of Sale*
+			- ![[Pasted image 20240506084524.png]]
+			- ![[Pasted image 20240506084713.png]]
+			- ![[Pasted image 20240506084742.png]]
+			- 
