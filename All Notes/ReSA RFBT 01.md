@@ -26,5 +26,21 @@
 			- ![[Pasted image 20240506082409.png]]
 				- Example: Person A = Laptop 20K; Person B = Smartphone 12K and Cash 8K
 					- From this example, it cannot be deemed if it is a contract of sale or barter, or both. It is determined by the *manifest intention of the parties* and not the value of the thing given.
+						- Look at the problem; analyse thoroughly
 					- Since the example is only “transacted”, then it cannot be determined if it is a sale or a barter.
-					- 
+					- Sold → contract of sale; if the parties are referred to as buyer and seller
+					- Exchanged → barter
+					- Example is a contract of sale (assume that the intention is clearly manifested)
+					- If Smartphone → 8K and Cash → 12K, then barter
+					- If Smartphone → 10K and Cash → 10K, then sale
+						- Note that the term used is “exceeds the amount”. Therefore, use “greater than”…
+		- Contract of Agency to Sell
+			- ![[Pasted image 20240506084137.png]]
+	- Kinds of Sale as to Transfer of Ownership upon Delivery
+		- ![[Pasted image 20240506084231.png]]
+	- Elements of a Contract of Sale
+		- ![[Pasted image 20240506084322.png]]
+			- Natural → inherent, included even if not stated
+			- Accidental → included if the parties includes as such
+			- Essential → shall always be included
+		- 
