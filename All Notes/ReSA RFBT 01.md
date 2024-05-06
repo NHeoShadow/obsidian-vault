@@ -51,6 +51,8 @@
 			- ![[Pasted image 20240506090555.png]]
 			- ![[Pasted image 20240506092143.png]]
 			- ![[Pasted image 20240506092552.png]]
-		- *Object as the subject matter which may be things or rights*
-			- ![[Pasted image 20240506093311.png]]
+				- ![[Pasted image 20240506093311.png]]
+			- ![[Pasted image 20240506100238.png]]
+			- ![[Pasted image 20240506100435.png]]
+			- ![[Pasted image 20240506100521.png]]
 			- 
