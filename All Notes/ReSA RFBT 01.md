@@ -24,4 +24,7 @@
 			- ![[Pasted image 20240506082312.png]]
 		- Barter
 			- ![[Pasted image 20240506082409.png]]
-			- 
+				- Example: Person A = Laptop 20K; Person B = Smartphone 12K and Cash 8K
+					- From this example, it cannot be deemed if it is a contract of sale or barter, or both. It is determined by the *manifest intention of the parties* and not the value of the thing given.
+					- Since the example is only “transacted”, then it cannot be determined if it is a sale or a barter.
+					- 
