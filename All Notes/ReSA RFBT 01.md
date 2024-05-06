@@ -5,4 +5,23 @@
 	- Characteristics of a Contract of Sale:
 		- Purpose: of the delivery is to transfer of ownership;
 		- Perfection: as a rule, is by mere consent, since there exists a contract of sale the moment the parties “obligate” themselves.
-	- 
+		- Subject matter: determinate thing
+		- Cause: onerous, since the cause or consideration of the parties is the prestation or promise of the other
+		- Bilateral contract: since both parties have their respective obligations
+		- Nominate contract: not only because there’s a specific designation of the contract, but more so because there are specific rules provided by law to govern the rights and obligations of the parties, after stipulations;
+		- Commutative: in the same sense that there is equivalence in the prestation of the parties. ordinarily, price reflects the value of the property, since the seller would not normally accept a price below the value of the property and the buyer would not normally pay an amount more than the value of the property.
+			- If not, then it is possible that it is 
+		- Aleatory: there is also a sale of hope where there is no equivalence in the value of prestation. Since the obligation of the other party is not certain to arise (Art 1461)
+	- Distinguished from other transactions:
+		- Contract for Piece of Work
+			- ![[Pasted image 20240506081948.png]]
+				- Sale: general items
+				- Contract for piece of work: special orders
+			- ![[Pasted image 20240506082206.png]]
+				- Contract of sale focuses on the thing and its delivery.
+				- Statute of Frauds only applies to law on contracts
+		- Dacion en Pago
+			- ![[Pasted image 20240506082312.png]]
+		- Barter
+			- ![[Pasted image 20240506082409.png]]
+			- 
