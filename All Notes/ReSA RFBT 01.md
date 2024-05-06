@@ -1,0 +1,8 @@
+- **Law on Sales**
+	- Definition
+		- By the contract of sale one of the contracting parties obligates himself to transfer the ownership and to deliver a determinate thing, and the other to pay thereof a price certain in money or its equivalent. (Art 1458)
+		- Governed by Title VI “SALES” of RA386
+	- Characteristics of a Contract of Sale:
+		- Purpose: of the delivery is to transfer of ownership;
+		- Perfection: as a rule, is by mere consent, since there exists a contract of sale the moment the parties “obligate” themselves.
+	- 
