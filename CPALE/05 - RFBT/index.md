@@ -7,6 +7,7 @@ The Regulatory Framework for Business Transactions subject covers legislations o
 Also read: [[How laws are created]]
 
 - [[ReSA RFBT]]
+- 
 
 
 ## Terminologies
