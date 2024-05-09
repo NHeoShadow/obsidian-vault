@@ -1,3 +1,5 @@
 - **MS Summary Lecture**
 	- ![[Pasted image 20240509084727.png]]
+	- ![[Pasted image 20240509085429.png]]
+	- ![[Pasted image 20240509085607.png]]
 	- 
