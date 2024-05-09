@@ -10,4 +10,7 @@
 	- ![[Pasted image 20240509092312.png]]
 		- ![[Pasted image 20240509092357.png]]
 		- ![[Pasted image 20240509092701.png]]
+	- ![[Pasted image 20240509093832.png]]
+		- ![[Pasted image 20240509093900.png]]
+		- High margin and high turnover → only occurs in a monopolistic environment
 	- 
