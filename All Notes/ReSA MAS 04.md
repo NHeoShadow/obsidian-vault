@@ -2,4 +2,9 @@
 	- ![[Pasted image 20240509084727.png]]
 	- ![[Pasted image 20240509085429.png]]
 	- ![[Pasted image 20240509085607.png]]
+	- ![[Pasted image 20240509090248.png]]
+	- 3 C’s in Pricing (need to be considered before setting a price)
+		- Customer
+		- Competition
+		- Cost
 	- 
