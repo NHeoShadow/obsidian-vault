@@ -1,2 +1,3 @@
 - **MS Summary Lecture**
+	- ![[Pasted image 20240509084727.png]]
 	- 
