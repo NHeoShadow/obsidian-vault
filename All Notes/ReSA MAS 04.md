@@ -7,4 +7,7 @@
 		- Customer
 		- Competition
 		- Cost
+	- ![[Pasted image 20240509092312.png]]
+		- ![[Pasted image 20240509092357.png]]
+		- ![[Pasted image 20240509092701.png]]
 	- 
